@@ -3,88 +3,83 @@ figure_list:
     src: figures/lange.jpg
     caption: "*Dorothea Lange, Resettlement Administration photographer, in California*, 1936."
     credit: "Library of Congress Prints and Photographs Division"
-  - id: "dog2"
-    src: figures/evans.jpg
-    caption: "*Walker Evans, profile, hand up to face*, 1937."
-    credit: "Library of Congress Prints and Photographs Division"
-  - id: "fig-1"
-    label: "Figure 1"
-    src: figures/evans-legionnaire.jpg
-    caption: "Walker Evans. *[American Legionnaire]*, 1935. "
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-2"
-    label: "Figure 2"
-    src: figures/evans-sons.jpg
-    caption: "Walker Evans. *Sons of the American Legion, Bethlehem, Pennsylvania*, 1935."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-3"
-    label: "Figure 3"
-    src: figures/evans-graveyard.jpg
-    caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-4"
-    label: "Figure 4"
-    src: figures/evans-hymns.jpg
-    caption: "Walker Evans. *Alabama Tenant Farmer Family Singing Hymns / The Tengle Family, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-5"
-    label: "Figure 5"
-    src: figures/evans-burroughs.jpg
-    caption: "Walker Evans. *Floyd and Lucille Burroughs, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-6"
-    label: "Figure 6"
-    src: figures/evans-washroom.jpg
-    caption: "Walker Evans. *Washroom in the Dog Run of the Burroughs Home, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-7"
-    label: "Figure 7"
-    src: figures/evans-child.jpg
-    caption: "Walker Evans. *Farmer's Child, Alabama / Othel Lee (Squeakie) Burroughs, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-8"
-    label: "Figure 8"
-    src: figures/evans-refugee.jpg
-    caption: "Walker Evans. *Arkansas Flood Refugee*, 1937."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "lange-house"
-    src: figures/lange-house.jpg
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "evans-video"
-    src: figures/evans-video-still.jpg
-    media_id: BpGN0UUtqqU
+  - id: "valera2"
+    src: figures/fig-valera-02.png
+    media_id: 2_akQ2xYs5c
     media_type: youtube
-    caption: "A selection of Walker Evans photos from the across the United States of America, 1930s."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "photo-podcast"
-    media_id: 336879231
-    media_type: soundcloud
-    caption: "Echoing the work of Lange and Evans, contemporary photographer Chris Killip documents social landscapes and is known for a series of powerful images of struggling industrial communities in North East England."
-  - id: "mother"
-    src: figures/mother.jpg
-    caption: "Dorothea Lange, *Human Erosion in California / Migrant Mother*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
-  - id: "mother-b"
-    src: figures/mother-b.jpg
-    caption: "Dorothea Lange, alternate version of *Migrant Mother*, 1936."
-    credit: Library of Congress Prints and Photographs Division
-  - id: "mother-c"
-    src: figures/mother-c.jpg
-    caption: "Dorothea Lange, alternate version of *Migrant Mother*, 1936."
-    credit: Library of Congress Prints and Photographs Division
-  - id: "pickers"
-    src: figures/pickers.jpg
-    caption: "Dorothea Lange, *Pea Pickers, Nipomo, California*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "duo"
-    src: figures/duo.jpg
-    caption: "Walker Evans, *Bud Fields with His Wife Ivy, and His Daughter Ellen, Hale County, Alabama*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
-  - id: "family"
-    src: figures/family.jpg
-    caption: "Walker Evans, *Burrough’s Family, Hale County, Alabama*, 1935."
-    credit: The J. Paul Getty Museum, Los Angeles
-
+  - id: "valera4"
+    src: figures/fig-valera-04.png
+    media_id: cdHoIizxBBg
+    media_type: youtube
+  - id: "valera5"
+    src: figures/fig-valera-05.png
+    media_id: PFCFJIO6GBU
+    media_type: youtube
+  - id: "fig-storercorrada-01"
+    src: figures/fig-storercorrada-01.jpg
+    caption: "[Screenshot of the object page for a 19th  century *tiple* in the NMNH online collections.](http://n2t.net/ark:/65665/33f53b0b7-ae6c-49d8-97a3-18a40325db36)  Although the page only provides the same minimal information available on the card catalog, the images of the object are of high quality."
+    alt: "Screenshot of the online catalog page for a string instrument called tiple in the Smithsonian National Museum of Natural History online collection. A list with four results for a keyword search for tiple is visible in the left background."
+  - id: "fig-storercorrada-02"
+    src: figures/fig-storercorrada-02.jpg
+    caption: "[Screenshot of the “Musical Instruments for the Noh Dance” object page on The Met’s website](https://www.metmuseum.org/art/collection/search/54560). The “Related Objects” section, highlighted in a yellow rectangle, displays prints by the same artists but no related musical instruments."
+    alt: "Screenshot of a page on the Metropolitan Museum of Art website for a print on paper titled “Musical Instruments for the Noh Dance” which depicts two hourglass-shaped drums, a scroll, a paper fan, and some fabric. The bottom of the page shows a section highlighted in yellow titled Related Objects in which there is a row of five images of other Japanese prints."
+  - id: "fig-storercorrada-03"
+    src: figures/fig-storercorrada-03.jpg
+    caption: "[Screenshot of the “O-tsuzumi (大鼓  )” drum object page on The Met’s website.](https://www.metmuseum.org/art/collection/search/504426)  The “Related Objects” section, highlighted in a yellow rectangle, displays other musical instruments but not the print mentioned above nor other related artworks."
+    alt: "Screenshot of a page on the Metropolitan Museum of Art website for an hourglass-shaped Japanese drum called O-tsuzumi, part of a set of three. The bottom of the page shows a section highlighted in yellow titled Related Objects in which there is a row of five images of musical instruments."
+  - id: "fig-storercorrada-04"
+    src: figures/fig-storercorrada-04.jpg
+    caption: "[Screenshot of the Tags and Related Objects section on the “The Actors Matsumoto Yonesaburo and Segawa Kikunojo” object page on the Brooklyn Museum website.](https://www.brooklynmuseum.org/opencollection/objects/9784) The Related Objects, generated by user- and curator-submitted tags include musical instruments, artworks, furniture, and utensils."
+    alt: "Screenshot of a portion of an object page on the Brooklyn Museum website. Under the title Tags the words Acting, Drum, Japanese, Poetry, Ukiyo-e, Actor, Edo Period, Kabuki, Stage, Musical Instrument, Costume, Japan, Kimono, and Theater are listed in three columns."
+  - id: "fig-Coward-01"
+    src: figures/fig-Coward-01.jpg
+    caption: "Screenshot of the Explore Page from the Field Museum App."
+    alt: "The Field Museum information section on the app. There is a picture of a video of the African exhibit at the Field Museum along with the text of the video."
+  - id: "fig-Coward-02"
+    src: figures/fig-Coward-02.PNG
+    caption: "Screenshot of the Schedule Page from the Field Museum App."
+    alt: "Visual schedule of a museum trip. It has pictures of the different exhibits with checks in boxes next to them."
+  - id: "fig-Coward-03"
+    src: figures/fig-Coward-03.PNG
+    caption: "Screenshot of the Communicate Page from the Field Museum App."
+    alt: "Communicate page for the Field Museum App. Boxes with images and phrases that describe the image."
+  - id: "fig-Coward-04"
+    src: figures/fig-Coward-04.jpg
+    caption: "Screenshot of the Sensory Friendly Map from the Field Museum App."
+    alt: "Sensory Friendly Map for the Field Museum App. A Map of the museum main floor depicting colorful circles with symbols inside them that depict different sensory stimuli."
+  - id: "fig-Coward-05"
+    src: figures/fig-Coward-05.jpg
+    caption: "Screenshot of the Schedule's timer feature from the Shedd Aquarium."
+    alt: "Schedule Page of the Shedd Aquarium app. A timer for the Amazon Rising Exhibiton with a visual timer and the time left in numbers."
+  - id: "fig-Coward-06"
+    src: figures/fig-Coward-06.jpg
+    caption: "Screenshot of the Sensory Friendly Map from the Shedd Aquarium."
+    alt: "Tools page of the Shedd Aquarium app. Boxes with images and phrases that describe the image."
+  - id: "fig-Giramma-01"
+    src: figures/fig-Giramma-01.jpg
+    caption: "Word wall and microphone in the exhibit *Where do Words Come From?*"
+    alt: "A circular microphone stands in the foreground with a rainbow light at the center. In the background three dimensional words in ascending sizes cover the wall all the way out of the frame of the photo. Projected onto the wall is a spread of abstract shapes in bright yellow, pink, blue, purple, and green. The word dream is the only purposefully highlighted word, glowing in the light from the projector."
+  - id: "fig-Giramma-02"
+    src: figures/fig-Giramma-02.jpg
+    caption: "Globe at the beginning of the South Korean video in *The Spoken World* exhibit."
+    alt: "In the foreground of a bright, naturally lit room stands a touch screen with an image of a South Korean woman. She appears to be frozen mid sentence as her lips are pursed in an ooh shape. Behind the screen, suspended from the ceiling is a large globe composed of fist sized, circular LED lights which are colored to mimic the surface of the earth. This side of the globe is of Australia, Eastern Asia, and the Pacific Ocean."
+  - id: "fig-Giramma-03"
+    src: figures/fig-Giramma-03.jpg
+    caption: "Globe with the graphic from the South Korean video in *The Spoken World* exhibit."
+    alt: "Almost exactly the same as the previous image, but this time the touch screen in the foreground simply has the words Look Up in the center with an arrow pointing to the top of the screen. The lights on the LED globe have changed; the land masses have disappeared and a graphic of two bright white swords surrounded by blue has replaced them."
+  - id: "Dunhuang-1"
+    src: figures/Dunhuang-1.png
+    caption:
+    alt: "The image is a screenshot of the homepage of the IDP website."
+  - id: "Dunhuang-2"
+    src: figures/Dunhuang-2.png
+    caption:
+    alt: "The image is a screenshot of the Chinese collection page on the IDP website."
+  - id: "Dunhuang-3"
+    src: figures/Dunhuang-3.png
+    caption:
+    alt: "The image is the Advanced Search section on the IDP website."
+  - id: "Dunhuang-4"
+    src: figures/Dunhuang-4.png
+    media_id: 12234863
+    media_type: vimeo
