@@ -1,218 +1,430 @@
 ---
 label: III
-title: Prioritizing Creativity & Soft-Skills in Museum Makerspaces
-subtitle:
+title: Turning a Blind Eye to Design
+subtitle: Technology and Visual Impairment In Modern Museums
 weight: 32
 type: essay
 class:
 contributor:
-  - id: achen
+  - id: jsanford
 abstract: |
 
 ---
 
-Since the early 2010s, museums have been invested in the maker movement, which emphasizes learning-by-doing in interdisciplinary environments through creation with various tools and technologies. Many have focused on the maker movement as an extension of the STEM movement: through hands-on projects, maker-centered learning can increase engagement and proficiency in STEM subjects and prepare students for STEM careers. However, the strength of museum maker-programs lies in alignment with the STEAM movement – integration of the arts and design thinking that encourages development of creativity, empathy, and other soft skills necessary for human-centered problem solving. Historical context of STEM, STEAM, and maker movements will first be addressed to understand the educational motivations and guiding principles before looking at museums’ motivations and roles in these movements. Case studies at the Bata Shoe Museum and Children’s Creativity Museum will be presented that highlight two strategies used in successful, human-centered museum making experiences: de-centering technology and guided facilitation.
+The modern museum, ideally, is a bastion of accessible design and planning.
+Through it, guests are encouraged to explore their interests without limitation
+– though some find this more difficult than others. Those with visual
+impairments often find museums unwelcoming and even hostile environments. It
+requires no great stretch of the imagination to discover why: filled with
+inscrutably small label text, inadequate (or nonexistent) audio tours, obtuse
+floor plans, and objects displayed with only the needs of the sighted in mind,
+some museums seem almost purpose-built to turn away visually impaired visitors.
+Despite how it may seem, this does not have to be the case. Clever
+implementation of long-existing techniques and the new technological advances
+alike are providing museums around the world with exciting opportunities to
+engage those with visual impairments through more nuanced approaches to
+wayfinding, audio description, and tactile feedback. Though individual exhibits
+and museums often demonstrate an extraordinary attention to the needs of
+visually impaired visitors, broader adoption of both high- and low-tech
+solutions is necessary to bridge the gap between museum collections and visually
+impaired persons who want to explore them. This paper will explore some of the
+exciting advancements, like haptic feedback systems, enriched audio
+descriptions, and self-directed audio tours, that are currently being employed
+at institutions in our field.
 
-## A Brief History of STEM in the U.S.
+## Defining Visual Impairment
+Though they are often conflated, not all persons with visual impairments are
+blind. “Visual impairment”, “low vision”, “partial sight”, and other terms have
+historically been used to describe a condition “in which visual acuity is 20/70
+or poorer in the better-seeing eye and cannot be corrected or improved with
+regular eyeglasses”.[^1] Though neither “visual impairment” nor “legal
+blindness” are functional definitions of any condition – and a range of severity
+exists within the classification of “visual impairment” – for the purposes of
+this work, “Persons with Vision Impairment” (PVI) will be used to denote any
+persons for whom visual perceptual difficulties hinder their ability to interact
+with a museum environment.[^2] According to the American Association of Museum’s
+*Annual Survey of Museum-Goers*, approximately 12% of visitors to museums
+self-identify as “blind or low vision”.[^3] During their museum visits, over
+half of PVI surveyed in Fogle-Hatch and Winiecki’s *Assessing Attitudes of Blind Adults About Museums* reported that museum staff and volunteers did not seem comfortable interacting with them.[^4] Many also cited further barriers to
+accessing museums that ranged from difficulties navigating the space to
+frustrating experiences with the visual nature of many major exhibits at almost
+all museums.[^5] In the face of such unmet needs, it is incumbent upon any
+museum that desires to “give equitable access to everyone across the continuum
+of human ability and experience” (per the AAM’s definition of accessibility) to
+recognize and resolve the barriers to entry they present to PVI.[^6]
 
-The STEM (Science, Technology, Engineering, and Mathematics) education movement gained prominence in the U.S. at the turn of the twenty-first century after the publishing of several reports that showed U.S. students’ performance in STEM was falling behind other industrialized countries.[^1] In a global economy increasingly driven by science and technology sectors, STEM education and excellency was tied to ideas of national prosperity, global power, and influence. The STEM movement advocates "subjects cannot and should not be taught in isolation, just as they do not exist in isolation in the workforce." [^2] Since the early 2000s, the government has passed numerous initiatives to better prepare students for STEM careers, including acts that modify standardized testing and acts that increased federal funding toward STEM education and teacher training. Simultaneously, national resources were focused on STEM research, as well as economic policy aimed at growing the STEM industries.[^3]
+Before going any further, it should be noted that my review of museum technology
+and its intersections with accessibility efforts for the visually impaired will
+by no means be exhaustive. As a sighted individual, such an endeavor would be
+both irresponsible and unnecessary, given the current state of literature on
+this topic. For excellent examples of firsthand accounts of blind or visually
+impaired museum experts, see Braham’s *The Inclusive Museum*, Kudlick’s *The Local Museum, So Near and Yet So Far*, or Kleege’s *More than Meets the Eye: What Blindness Brings to Art*.[^7] The perspective of the blind and viually impaired is comprehensive, constant, and impossible to replicate by sighted individuals. No attempt will be made here to do so. It is my hope, rather, that a review of the current uses of technology to make the museum a welcoming,
+intuitive space for the visually impaired can spur institutions who have not
+made such efforts into action – for, as this work will demonstrate, such efforts
+are essential in fulfilling the promise of museums everywhere.
 
-## From STEM to STEAM
+## Navigating and Wayfinding
+Before PVI can interact with an exhibit, listen to the latest advances in audio
+description technology and methodology, or take part in new experiences afforded
+by haptics and tactile feedback-focused research, they must navigate their way
+through the museum environment. This issue is illustrated concisely in Handa et
+al.’s 2010 *Investigation of Priority Needs In Terms of Museum Service
+Accessibility for Visually Impaired Visitors*: “even if objects are available
+for touching, there is no way to know where the objects are”.[^8] Essentially,
+it does not matter if the presentation of an exhibit’s content empowers the
+visually impaired if they cannot find that content independently in the first
+place. To overcome this most basic of barriers to entry, a number of innovative
+technological solutions can be employed. A relatively low-tech option may
+involve using tactile markers set into the ground in combination with textured
+materials on the walls (like embossed leather, for instance) that both guide the
+experience of PVI and invite the use of touch to navigate rather than sight, as
+practiced in the Quai Branly Museum [(fig 1)](#fig-sanford-01) [(fig 2)](#fig-sanford-02).[^9] The Quai Branly Museum is also amongst a growing contingent of museums that offer a 3D model of the museum itself that
+can help PVI orient themselves and guide their experiences throughout the
+museum, as well as a “tactile exploration guide” that can be printed out on
+raised paper prior to a visitor entering the museum [(fig 3)](#fig-sanford-03).[^10]
 
-From 2000-2010, growth in STEM jobs in the U.S. was three times as fast as growth in non-STEM jobs.[^4] The U.S. Department of Commerce continues to report that STEM workers “drive our nation’s innovation and competitiveness by generating new ideas, new companies, and new industries.”[^5] However, concerns remain about the supply and availability of STEM workers. In 2010, the U.S. Department of Education reported that only 16% of American high school seniors are proficient in mathematics and interested in a STEM career; additionally, only half of those who go on to pursue a college major in STEM choose to work in a related career.[^6]
+{{< q-figure id="fig-sanford-01" >}}
 
-Many educators have turned to STEAM, which adds the A for Arts to the STEM acronym, as a solution to this retention problem, as well as a response to decreasing federal funding for the Arts. Research has shown numerous benefits of incorporating arts into K-12 education, including reduced boredom in school and better performance on standardized tests.[^7] More than just crafts or artistically decorating STEM projects, “integrating arts disciplines into curriculum and instruction in the areas of science, technology, engineering, and mathematics can be advantageous for generating new learning opportunities rooted in the process of hands-on design and production.”[^8] The STEM to STEAM movement was championed in 2010 by John Maeda and the Rhode Island School of Design, arguing that the integration of the arts teaches design thinking, flexibility, risk-taking, creativity, collaboration, and empathy – all essential skills for more well-rounded employees, innovation, and developing human-centered, creative solutions in the workplace during a time when automation is on the rise. [^9]
+{{< q-figure id="fig-sanford-02" >}}
 
-STEAM education has potential to keep students more engaged by humanizing and creating meaning around interdisciplinary learning and to appeal to a broader, more diverse group of students.[^10] In a 2018 study published by Microsoft, 91% of girls and young women describe themselves as creative and 72% say it’s important to have a job that directly helps the world; however, only 37% associate STEM jobs with being creative or making a difference in the world.[^11] STEAM learning can help reach this audience and bridge this gap between STEM subjects, creativity, and making the world a better place.[^12] This is crucial as creativity is commonly named as one of the most important skills to succeed in the 21st century. In a 2010 global IBM poll, more than 1,500 CEOs from 60 countries rated creativity as the “most crucial factor for future success,”[^13] and through analysis of LinkedIn data in 2018, LinkedIn Learning found that “creativity is the most important skill in the world.”[^14]
+{{< q-figure id="fig-sanford-03" >}}
 
-## The Maker Movement
+More technologically-intensive solutions have been implemented in multiple
+locations in Greece, where visitors can utilize the *Blind MuseumTourer* app to
+assist in navigating the Tactual Museum of the Lighthouse for the Blind of
+Greece, the National Archeological Museum and the Acropolis Museum.[^11] While
+using the app, a series of low-power Bluetooth sensors placed around points of
+interest are used in combination with a phone’s preexisting suite of sensors to
+provide directions uniquely tailored to the individual stride length of the
+visitor.[^12] With their position triangulated by sensors and the length of
+their stride accounted for, the accuracy of directions provided (“take 14 steps
+forward and 3 to the left”, e.g.) and the integration of audio recordings
+explaining points of interest allow users of *Blind MuseumTourer* to engage in a
+truly self-guided experience. Similarly, Athens’ Museum of Cycladic Art uses
+sensors and their own app to provide guided thematic tours that direct PVI
+towards tactile elements of their exhibitions designed to be handled.[^13] Pilot
+studies at New Delhi’s National Science Center have combined similar
+smartphone-based technology with a small wearable device that vibrates in
+certain situations to provide visitors with the ability to pick and choose the
+elements in an exhibit that appeal most to them.[^14] The interface of such
+systems with the crowd-sensing Bluetooth devices focused on in Germak and Khan’s
+*Interaction Design Application for Museum Spaces* may further increase their
+utility by enabling technologists to integrate real-time positions of other
+members of the public in the navigation instructions given to PVI.[^15]
 
-The maker movement grew out of the push for STEM learning and increased accessibility of creative technology, and it is often in conversation with the STEAM movement. The maker movement refers to “an interest working with one’s hands in interdisciplinary environments that incorporate various tools and technologies.”[^15] It encompasses a “growing number of people who are engaged in the creative production of artifacts in their daily lives and who find physical and digital forums to share their processes and products with others." [^16] The maker movement gained momentum with the launch of *Make* magazine in 2005 and the Maker Faire in 2006. In 2013, Maker Media, Inc. was born and took over publishing of the bimonthly *Make* magazine in addition to publishing books, producing Maker Faires, and operating an online site that sells supplies for “making” projects.[^17] Maker Media emphasizes that making represents “the democratization of design, engineering, fabrication and education.”[^18] Common making projects include circuitry, robotics, 3D printing, and woodworking. Maker-centered education emphasizes “learning by doing” with a self-directed, informal, iterative, and collaborative approach.[^19] Because of the hands-on and interdisciplinary nature of many projects, “STEAM” and “making” are sometimes used interchangeably.
+Through application of these innovative solutions, museums can augment their
+existing efforts towards making the layout of their space more intelligible.
+Large-print, braille labels, and well-trained docents equipped to handle the
+request and needs of PVI will always be an essential part of the puzzle of
+wayfinding. As the list of new technological solutions grows ever-longer,
+however, museums everywhere must ask themselves if the bare minimum of
+navigation assistance is too low of a standard to hold themselves to.
 
-Similar to the discussion of benefits of STEAM, many supporters have advocated for maker-centered learning as a method of improving proficiency in STEM subjects, [^20] increasing interest in STEM professions, and ultimately impacting everything from the technology and manufacturing industries to the global economy.[^21] As the movement gained popularity, some have emphasized that the most beneficial maker programs are those that go beyond the technical skills and center the maker movement’s human aspect – how making is collaborative and core to human identity and expression, how it empowers individuals to build up from their existing knowledge and pursue what interests them, and how it fosters creativity and the idea that anyone can innovate for the benefit of the world.[^22] Matt Baker, who runs The Forge, the Science Museum of Virginia’s intergenerational makerspace for all ages, says they aim to help participants develop “persistence, collaboration, motivation … and all those softer skills that don’t get measured but that are just as important.”[^23] Maker Media promotes the purpose of incorporating making into education to be “fostering in each student the full capacity, creativity and confidence to become agents of change in their personal lives and in their community.”[^24]
+## Enhanced Audio Description
+While traditional audio tours are certainly helpful, the opportunities presented
+by “enhanced” or “enriched” audio description – which focuses not merely on the
+translation of visual content into an audio format but the creation of a unique
+auditory landscape – can enhance the experience of PVI and sighted individuals
+alike.[^16] Indeed, when museums devote focus to exploring what their audio
+tours can offer, the results are often surprising. “Enriched” audio descriptions
+are not strictly defined, but usually are recognized as audio descriptions that
+incorporate “semantic or factual details as well as highlights of a piece, which
+help the listener create a story about that piece” as well as “a rich range of
+multisensory imagery and metaphor”.[^17] The shift to an audio-focused method of
+information intake “can enhance later memorability of an experience, for both
+blind and sighted people”.[^18] Enriched audio experiences that incorporate
+narration and soundscapes have been noted to positively correlate with the
+amount of time that guests spend taking in the information presented to
+them.[^19]
 
-The maker movement is now a global phenomenon across formal and informal learning environments. Maker fairs are held all over the world each year, and makerspaces – spaces where makers can come to share ideas, skills, and tools – can be found in a range of environments including after-school programs, libraries, museums, and higher-education institutions. One example is FabLabs, created by professor Neil Gerschenfeld from the Massachusetts Institute of Technology (MIT) as “pedagogical environments that would allow everyday people to solve their own problems by producing (rather than purchasing or outsourcing) the tools they need.”[^25] FabLabs emphasizes principles of engineering, robotics, and design, and models have been adopted for K-12 formal and informal learning settings worldwide. [^26]
+In her PhD thesis on audio descriptions in museums, Rachel Hutchinson expounds
+not only the potential benefits of enriched audio in the museum but also the
+wide range of theory and practice that dictates how audio descriptions are
+currently used.[^20] Audio description, as traditionally defined and used in the
+museum field, is an attempt at the “translation of visual information…
+[seemingly] designed above all else to address the category of ‘object
+experiences’ – enabling visitors to ‘see’ rare or valuable objects”.[^21] Most
+museum professionals would probably argue, however, that merely seeing an object
+constitutes only a small part of the experience of visiting a museum. When
+attempting to emulate the cognitive, introspective, and social experiences that
+make up the rest of the museum experience, those working with audio descriptions
+must contend with the complexity of translation ethics.[^22] Where, for
+instance, should a museum draw the line between explaining the history of a work
+of art and interpreting that art *for* the visitor? At what point does so-called
+“enriched” audio description become a cultural text unto itself? Should those
+working on audio descriptions be wary of making statements about non-visual
+aspects of the art, or encouraged to use language that evokes a multisensory
+experience? Though the answers to these questions will vary from museum to
+museum (surveys show that European describers are more open to creating
+descriptions that “explore meaning” and “create emotional experiences”) they
+underscore the truth of the vast opportunities provided by smartphones and other
+technologies when it comes to audio description: it can only ever be as
+impactful as an institution allows it to be.[^23]
 
-## Making in Museums
+*Features From Qatar*, a 2015 Mathaf exhibit of an original 1973 painting by
+Jassim Zaini, is a prime example of how responding to these ethical questions
+can provide novel solutions that make the most of current technology. After a
+long period of analyzing the work itself, carefully editing the script of the
+audio description, and creating a soundscape that would accompany the audio
+guide (composed of music and audio cues that evoked the location and ambience of
+the painting), the exhibit went live.[^24] PVI could access the enriched audio
+as a .mp4 file through any device they had on hand.[^25] The
+response—overwhelmingly positive, but with a wealth of constructive
+critiques—led project lead Joselia Neves to conclude that “there is an enormous
+potential for Enriched Descriptive Guides as a specific museum text type that
+can contribute to visitor engagement”.[^26]
 
-The early 2010s saw numerous museums and libraries merging with the maker movement, building dedicated makerspaces or incorporating maker-centered activities. Since 2011, the Institute of Museums and Library Services (IMLS) has invested over $10 million to advance research and support making in museums and libraries. In 2017, IMLS published *Making & Learning* with the Children’s Museum of Pittsburgh, a project to “build and sustain the capacity of libraries and museums to develop effective makerspaces and programs.”[^27] The National Science Foundation has also supported development and research of making in museums at institutions including the Exploratorium in 2013 and the New York Hall of Science in 2014. [^28]
+In taking these measures towards inclusive and accessible design for PVI, museum
+workers engage in a far more involved process of meaning-making. Though the
+ethical questions that enriched description poses are daunting, the ease of
+access that such efforts enable are important steps in developing a museum that
+is open to all.
 
-The initial push was primarily in children’s or science museums, as these types of institutions have “long incorporated making and creative technologies in their galleries,” but the movement has reached all types of institutions, including art and history museums, and making activities and makerspaces have taken many forms.[^29] At the Peabody Essex Museum, the Maker Lounge hosts 3D printing workshops, individual tinkering for individuals of all ages with materials from circuits to cardboard saws, Maker-in-Residence programs, and varied demonstrations by visiting collaborators, including artists, scientists, and engineers.[^30] ARTLAB at the Hirshhorn Museum supports teen innovators through a one-on-one mentorship program with professional creatives in addition to providing free access to art materials and the latest technology.[^31] Some institutions, such as Spark!Lab at the National Museum of American History, design maker-activities to connect to the museum’s collections or municipal or national history. Spark!Lab is designed for children ages 6-12 and their families, and their STEAM activities incorporate themes that connect to the museum’s exhibitions and America’s history of innovation.[^32]
+## Haptics and Tactile Response
 
-Recognizing that interdisciplinary programs require multiple areas of expertise, museums often partner with external organizations to implement making programs. One such example is a collaborative STEAM program between the Innovation Hub at Florida State University, the Robert K. Godfrey Herbarium, and a local summer camp that took place in summer 2018. This program involved tours of the Herbarium and Innovation Hub and integrated arts, maker tech, museum specimen, and scientific research with the goal of showing “different ways creativity is involved in STEM.”[^33] Activities included learning about plant pressing, drawing scientific illustrations, and 3D modeling and printing of nature inspired tokens.
+Some of the most exciting work being done in the museum field to cater to the
+needs of PVI involves the use of *haptics*, or technology that makes use of
+one’s sense of touch, in transforming visual information into a more accessible
+format. Haptic technology can take many forms: it can be used to enhance color
+recognition, create tactile-focused versions of paintings and other printed art,
+provide facsimiles of 3D art that are available for visually impaired visitors
+to touch and handle, develop wholly virtual recreations of famous works of art
+(accessible through specialized machinery that mimics the 3D rendering of the
+piece in VR), and more. The uses of tactile sensation in the museum setting
+presented below are just a sampling of what the technologies that drive them
+have to offer.
 
-Desi Gonzalez places making with creative technologies in a “longer lineage of creation as a form of arts engagement in museums” and in a history of amateur art practice in the United States.[^34] Beginning with the 19th century, Gonzalez explains how museums supported creative production through formal art classes and academies. In the late 19th century and early 20th century, this declined as universities formed their own departments, new technology like broadcast media shifted arts and culture participation from creation to consumption, and American culture increasingly differentiated between popular and highbrow arts, resulting in reduced art practice and a widening gap between highly trained professionals and amateurs. Art museums, such as the Metropolitan Museum of Art and the Boston Museum of Fine Arts, shifted to collecting objects of “higher taste” and swapped their adult art-making classes for art-historical lectures, believing their role was to foster high taste and aesthetic appreciation in their audiences. Art making primarily remained in programming for children, where museum educators embraced self-directed and hands-on learning principles for youth.
+Investigations of the uses of such technologies can be difficult to grasp: some instances of haptic feedback systems within the museum are positioned as novel, while other efforts at making visual information tactile are well-established. Take, for instance, the case of the Louvre’s Tactile Gallery: since its inception in 1995, the Tactile Gallery has provided visually impaired visitors to the world’s most-visited museum with reproductions of famous works that they can touch and feel [(fig 4)](#fig-sanford-04).[^27] On the other hand, an interactive computer-based exhibition at the Mm Gerdau Museum Of Mines And Metal that merges tactile exploration with intelligent audio descriptions matching the objects being touched (if, for instance, the visitor picks up two of the five objects on display, the exhibitor machine will begin to explain the similarities and differences between those objects) was recently tested to great effect.[^28] Neither of these uses of technology are particularly resource-intensive nor radically different from what museums around the world already offer visitors on a day-to-day basis (especially with the advent of low-cost 3D printing technology), but each can fundamentally alter and greatly enhance the experience of PVI in the museum setting.
 
-Using hands-on STEAM programming and making activities is part of a shift away from the authoritative museum that operates under the banking model of education and towards participatory visitor engagement for all ages. As defined by Paulo Freire, the banking model of education places authority on the teacher, or the museum, and positions students, or visitors, as receptacles for the museum’s knowledge.[^35] Moving away from this model, opportunity for dialogue between teacher or facilitator is created, and the visitor becomes an active participant in their own learning instead of passively receiving information. The educational goal becomes “problem-posing” – emphasizing our relations with the world, thinking about our problems and how to solve them.[^36] This shift towards visitor participation in museums is also part of a broader participatory culture that has become widespread in the U.S. and worldwide in the last fifteen years, spurred by the Internet and new technologies. Described by Gonzalez, “In a participatory culture—as opposed to consumer culture—amateurs take the reins of the production of media and cultural artifacts… As the Internet increasingly provides easy access to tools and networks with which to contribute and distribute culture, everyone becomes a media maker.”[^37]
+{{< q-figure id="fig-sanford-04" >}}<a name="fig-sanford-04"></a>
 
-In *The Participatory Museum,* Nina Simon argues that museums can use participatory techniques “to develop experiences that are more valuable and compelling for everyone.”[^38] Just as STEAM education benefits schools in ways like reducing student boredom and increasing student engagement with STEM learning, participating through making can benefit museums in many ways. Simon explores how participatory techniques can address several commonly expressed forms of public dissatisfaction with cultural and learning institutions. Two of these complaints are “the institution is not a creative place where I can express myself and contribute to history, science, and art” and “the institution is not a comfortable social place for me to talk about ideas with friends and strangers.”[^39] Making is a form of participation that addresses both. Providing opportunities for making supports the interests of visitors who prefer to make and do rather than just read or watch, and makerspaces emphasize collaboration and sharing of ideas.
+Though it may seem to be on the cutting edge of technological advancement, haptic displays that replicate the feeling of touching an object (achieved through force feedback on the hands and vibratory stimuli) has been in development since the turn of the 21st century.[^29] Jansson et. al.’s development of a system that mimics the feeling of touching a sculpture for the E.U.’s PURE-FORM project in 2001 was the precursor of modern advances in museum haptic technology that are radically changing what experiences are open to PVI.[^30] The National Museum of Transylvanian History has used a relatively simple haptic device—the Geomagic Touch System, which consists of a stylus on a mechanical arm that can provide force feedback [(fig 5)](#fig-sanford-05)—to provide visitors with an intuitive yet novel experience in which they can “touch” a range of 3D-scanned artifacts from the museum’s collection.[^31]
 
-As Gonzalez documented in 2015, “arts participation through amateur art practice is again on the rise in the United States, and subsequently museums are being reinvigorated as sites for art making for all ages and levels of professionalization.”[^40] Speaking to digitally mediated arts creation upon the opening of Media Lab at the Metropolitan Museum of Art in 2013, Don Undeen, the senior manager of the makerspace at the time, commented, “Digital tools do not fundamentally alter this paradigm, they just make it possible for more people to get involved.”[^41] Informal learning settings like museums play an “important role in diversifying the maker movement by making tools, materials, and processes more readily available to people who may not initially self-identify as makers.”[^42] STEAM programming and the maker movement was able to enter museums because of institutional history with arts creation, engagement with participatory culture, and alignment with maker culture in several areas: dedication to sharing information as freely as possible; belief in the value of hands-on, student-centered learning; and the notion that everyone is a maker, regardless of age, profession, or level of academic achievement.
+{{< q-figure id="fig-sanford-05" >}}<a name="fig-sanford-05"></a>
 
-Formal K-12 school settings face many challenges in creating STEAM programming and effective makerspaces, such as funding and resources, lack of time due to the focus on testing, and lack of teacher or facilitator training. Fern Shupeck, executive director of the Betty Brinn Children’s Museum, notes, “Schools are increasingly interested in maker education for all grade levels and in creating makerspaces, but many do not have the resources, training, and support they need to get started.”[^43] Informal learning settings like museums can help fill this gap. The Betty Brinn Museum hosts Teacher Studio, “a free, professional development series … that provides an introduction to resources, training, and activities for K-12 educators looking to implement making, makerspaces, and STEAM learning.”[^44] Jacqualine Grant and Delaney Patterson, leaders of a STEAM program at the Garth and Jerri Frehner Museum, acknowledge budget disparities in rural areas: “Because arts programs in rural school districts such as ours are more impacted by budget than schools in affluent areas, access to arts and science educational opportunities through informal learning environments is extremely important. Through our program, over 6000 students have accessed arts and science resources their schools do not have, and at least 90 teachers have learned how to integrate arts into STEM lessons.”[^45]
+Cost is rightfully a concern whenever the adoption of new technologies is
+attempted by museums. Fortunately, the distance between what a museum can spare
+and the costs of implementing haptic technologies may be substantially smaller
+than some would imagine. Prototype devices custom-built for educators have been
+produced for less than \$300.[^32] The aforementioned Geomagic Touch, if
+purchased with the associated Sculpt software that allows museum workers to
+design and scan the objects in their collections, can cost anywhere from \$900
+to \$3300 (depending on the condition of the device).[^33] More advanced
+systems, like the Museo Archeologico Nazionale delle Marche’s haptic application
+that uses an Omega-6 machine produced by haptic-tech company Force Dimension,
+trade a higher price for a higher level of detail in the digital reproduction of
+artifacts.[^34] The Museo Archeologico’s system was found to greatly influence
+the level of visitor engagement with the museum’s collection and the overall
+visitor experience and showcases how efforts at PVI accessibility can often
+result in a more enriching experience for all.[^35] At the Prague National
+Gallery, the exhibition *Touching Masterpieces* showcased some of the most
+advanced haptic technologies currently available and outfitted visitors with a
+set of haptic gloves that could reproduce the feeling of touching the Venus de
+Milo and other pieces in real space [(fig 6)](#fig-sanford-06).[^36]
 
-Some educators fear that attempts to institutionalize K-12 making through schools will suppress the creativity central to the maker movement by emphasizing the immediate math or science content and hard engineering and technology skills gained.[^46] Museums can combat this. For years, museums have been integrating digital technology to build connections, encourage dialogue, and engage visitors in storytelling, empathy, and change.[^47] This is important as museums continue to shift from focusing on the collections and exhibitions to focusing on the people and communities they serve. The most beneficial museum makerspaces and STEAM programs are not ones that have the highest attendance numbers or use the fanciest technology and teach the most challenging technical skills, but those that guide participants to have a human experience and utilize technology in deliberate ways to facilitate creativity, empathy, and cultural understanding. Two case studies, including a reflection on my former internship experience, will be presented that highlight different strategies used in successful, human-centered STEAM experiences: deliberate de-centering of the technology and guided facilitation.
+{{< q-figure id="fig-sanford-06" >}}<a name="fig-sanford-06"></a>
 
-## Using 3D Fabrication Technologies for Creative Expression and Cultural Heritage Learning at the Bata Shoe Museum, Toronto
-
-In 2015, the Bata Shoe Museum in Toronto developed a 3D printing workshop for children aged 9-13 titled “Footwear Futures” in collaboration with the Semaphore Research Cluster on Inclusive Design in Mobile and Pervasive Computing. The workshop was developed to allow researchers and the museum education staff to evaluate the use of 3D digital fabrication technologies for young learners in cultural heritage settings.[^48] Researchers saw a gap between a growing amount of discourse around the educational value of 3D technologies in museums and the strategies used to engage children with these technologies, especially in the setting of cultural programming.[^49] They sought to understand if 3D printing used in conjunction with museum pedagogical tools could support cultural heritage learning, cross-cultural understanding, and allow students to connect historical technology with contemporary ones. This is vital as successful STEAM learning experiences do not merely utilize advanced technology for its own sake; rather, they should highlight how the science and technology incorporated into the activities is relevant to each participant’s life.[^50]
-
-The workshop design intentionally fused technical-digital and cultural literacies. The goal was to not only teach children the technical skills required for 3D printing, but to also “encourage children to reflect on cultural knowledge associated with artifacts encountered during their museum visit.”[^51] In the two-part workshop, children were first given a cultural-historical introduction to footwear and shoe buckles from the museum education team. This presentation incorporated shoes made by various cultures from the Bata museum’s teaching collection, gave students a “broad survey of shoemaking practices,” and focused on “how, when, and why shoe buckles were used, as well as methods for decoration as signs of wealth and power.”[^52] This was then followed by an introduction to 3D design software and the processes of fabrication and small-scale manufacturing. The room had design stations, where participants could digitally create their own 3D-printable shoe buckles via laptops or tablets; observation stations where participants could watch the design and printing processes and examine the shoe buckles created by their peers or in the museum’s collection; and activity stations, where participants that completed tasks could explore other applications to create additional 3D models. Although students were engaged in the 3D fabrication process, the technology component was de-centered by equally weighting the museum’s cultural heritage presentation, giving students opportunities to play with shoes from the collection, and simplifying the digital modeling process by encouraging use of pre-loaded shapes and figures on tablet devices.
-
-A fourth station in the workshop room was used for assessments and interviews by the researchers. Researchers were looking to answer several questions: How can hands-on experiences for children with technologies like 3D printing and digital modeling be used to foster cultural understanding and literacy about objects in the museum as well as the technologies that are used? Does the construction of an artifact lead to a greater understanding of the artifact's historical and contemporary existence? Can children draw connections to the material history of an artifact through digital design processes?[^53]
-
-The research results showed that students were able to understand and articulate knowledge both about the cultural-historical subject matter and the 3D design process.[^54] Furthermore, they were engaged and excited about both the museum content and the technologies. They were able to apply the knowledge to shoes from other cultures not shown in the workshop presentation, to contemporary footwear, and their own lives, indicating the depth of their understanding and the ability of the workshop to foster cross-cultural connection. The process of making their own objects helped the students to reflect and build on what they learned in the presentation. They were able to connect their own design choices and contemporary examples to the cultural-historical context of shoe buckles being designed for utility and to demonstrate wealth and power.
-
-When asked about the shoe-buckles they created, “participants noted they chose designs and letters to personalize their objects,” indicating an excitement towards using 3D technologies for creative purposes.[^55] Students also commented on the creativity expressed in designs made by their peers. Researchers concluded that this workshop was successful and that activities which de-center technology, allow for “creative modes of engagement”, and “equally weight digital-technological and cultural-historical literacies at the same time are both feasible and crucial to the successful deployment of new technology interactions by museums.”[^56]
-
-## Facilitating Conversations around Technology at the Children’s Creativity Museum, San Francisco
-
-As a 2019 education intern at the Children’s Creativity Museum (CCM) in San Francisco, I experienced first-hand the success of these principals emphasized by the researchers at the BataShoe Museum. During general admission hours, I taught basic, intermediate, and advanced art and technology skills to youth (ages 2-12) and families in six multi-media exhibit spaces. Educators and interns collaborated to facilitate field trip programs and provide a fun and engaging learning environment that supported the growth of students’ creative confidence. Nurturing creative confidence and collaboration is at the core of CCM’s educational philosophy.[^57] Each of the field trips and exhibits is designed to provide opportunities for creative expression, innovation, and critical thinking, and cultural-historical connections with the surrounding neighborhood and Bay Area are often explored.
-
-In 2017, CCM was at the center of a neighborhood under major construction. The Community Lab, which inhabited a large, domed room in the museum, was transformed into Sketch Town, a new immersive, digital experience. Partnering with teamLab and Hitachi America, a virtual city was projected onto the domed room. Colorful roads spanned the city, rockets flew in the sky, and a helicopter provided a moving view of the city projected onto another screen. Sketch Town gave visitors the opportunity to draw their own buildings, cars, trucks, flying ships, or helicopters. When completed, they could scan their creations, watch it upload and drop directly into the virtual city, and interact with their creations on the screen.
-
-With guided facilitation from the educators, Sketch Town used art and technology to “inspire conversations about the elements of strong communities including: diversity, civic function, public spaces, environments, creative expression, design, and technology.”[^58]  When I worked as the facilitator in this space, I prompted children with various questions including, “What do you imagine in a city of the future?” and “What can you add to our shared city to make it more safe or welcoming?” The goal was to foster creativity, empathy for the communities you live alongside, and critical thinking around architecture, city planning, and construction.
-
-As part of the Imagination Lab, AR Sandboxes “offer kids a hands-on introduction to topography, where they can move, dig, and shape Kinetic Sand into personalized landscapes.”[^59] Through the Map Makers activity, kids explore the dynamics of water flow and watersheds on a topographic map that changes colors as they modify the landscape. The Habit Helpers activity produces land and sea animals on the sand, prompting questions about human impact on the planet and how to design a habit that can help both land and water creatures survive.
-
-In the Animation Studio, kids learn the basics of stop-motion animation, first by developing their own stories and creating figures from clay and wire frames, then by bringing them to life on screen. For general admission visitors that needed support creating stories, we encouraged creative expression around their identity and things important to them: spending time with family or friends, their favorite superheroes, dreams about what they want to be or do when they grow up. During field trips, students learn about the history of stop-motion animation, see examples of different tools that can be used to enhance their films, and work through the entire process of creating a short film from start to end. Depending on the needs of the teacher and the grade level, students were encouraged to explore more complex topics like history, health, and social justice. Students animated stories about family or cultural traditions, saving animals, stopping bullying, and more. The technology used were computers with webcam or iPads and the software iStopMotion, and it was setup so that visitors could learn it very quickly: all they needed to do was press a button to take a picture. The technology is de-centered, storyboarding is given equal weight, and students are encouraged to think imaginatively about how to convey meaningful stories through stop-motion without sound.
-
-While Sketch Town, AR sandboxes, and the Animation Studio are examples of high-tech activities, CCM also utilizes low-tech to provide opportunities to practice creativity and making. In the Innovation Studio, visitors encounter the Mystery Box Challenge: they are given a mystery box of supplies and an age-appropriate prompt inviting invention such as shoes for space travel, a flying machine that can carry elephants, or a device that can eliminate polluted air over the San Francisco Bay. The mystery boxes contain an assortment of traditional arts and crafts supplies, such as cardboard, bottles and bottlecaps, straws, wire, yarn, and beads. Scissors and tape are always available, and other supplies rotate as staff and outside sources donate materials. Kids are challenged to ideate something that solves the problem presented in their prompt, then to think about how to build it and ensure structural integrity. Facilitators challenge them to articulate their design process and describe the function of different parts of their inventions. Although the Innovation Studio is a low-tech makerspace, it allows children to engage in the act of making, thinking about problems, and designing solutions that will advance society or make the world a better place. The space also encourages intra-group collaboration between children and their accompanying adults, visitors coming in large groups, and within classes of students during field trips. Creativity is fostered with open-ended prompts and always-changing mystery boxes of supplies that challenge participants to use familiar materials in new ways.
-
-Though the making and STEAM activities are largely self-directed, as in the fashion of the maker and STEAM movements, my experience at CCM demonstrated the importance of facilitation to help visitors achieve a meaningful, humanized experience with technology and interdisciplinary learning. Conversations were guided to help visitors think about how we can use science and technology creatively to benefit our lives and care for those around us, whether through city planning, taking care of the natural environment, storytelling, or innovation. Other professionals in museum makerspaces have stressed the importance of facilitation as well. The Science Museum of Minnesota depends on volunteer facilitation to support learning through making; in order to carry out their vision, the volunteer training focuses on “fostering conversation, since it is fundamental to their work with learners.”[^60]  Through a two year research-practice partnership, Annie White et al. developed and published a Model of Facilitated Making in museum makerspaces. Recognizing that facilitation “often does not get highlighted compared to the tools and materials used by children,” the model “categorizes types of facilitation moves, describes environmental influences on facilitation, offers a process for considering techniques educators may use to facilitate,” and invites museum educators to reflect on their practice.[^61]
+Perhaps the most exciting implications of the use of haptic technology comes
+from studies like Park et. al.’s *Telerobotic Haptic Exploration in Art
+Galleries and Museums for Individuals with Visual Impairments*, in which PVI can
+remotely explore a museum’s collection through haptics.[^37] The act of making a
+museum’s collection available virtually is nothing new, but the upload of 3D
+renders of a museum’s objects can allow PVI to bring the experience of touching
+that collection into the comfort of their own homes. This is by no means a
+replacement for the full experience of visiting a museum space, but can serve as
+a means to virtually explore the collections of a museum in the same manner that
+sighted individuals have been able to for decades.
 
 ## Conclusion
 
-Since 2010, the STEAM and Maker movements have been widely embraced in both formal and informal learning environments across the country. Both movements grew out of increasing STEM proficiency and preparing a better STEM workforce, but all too often, schools place too much focus on designing the learning space and acquiring the technology, and not enough focus on the learning experiences.[^62] Being in a makerspace or using technology alone does not mean that students are engaging in standards-based STEAM learning or developing the soft skills necessary for human-centered problem solving that the STEM movement was failing to teach – creativity, collaboration, and empathy.[^63] Museums, with their long history of creation as a form of engagement, and as public institutions with missions often centered around inspiration and social change, are well suited to create successful STEAM or making experiences that are human-centered and foster these soft skills.
+What the vast differences between the many effective methodologies above imply
+is sure to be familiar to many museum professionals: the solutions that work for
+one institution may not be applicable to another, and the unique nature of a
+particular museum’s collection should drive the efforts in implementing
+accessible technologies. While for some the more technology-heavy solutions
+(like *Touching Masterpieces*) may be within their institutional reach, others
+may only be able to lay down simple tactile tape for wayfinding or provide brief
+audio descriptions. Yet another well-worn precept of museum work comes in to
+play here: museum workers should not allow the perfect to be the enemy of the
+good. Any effort to provide an inclusive experience for PVI, no matter how
+inadequate it may seem when ranked against industry-leading solutions at major
+institutions, has the potential to completely change the museum experience for a
+subset of guests that have for too long been left without adequate attention.
 
-STEAM and making-centered activities in museums are most beneficial when participants can engage in creative expression, dialogue, and see connections between the skills learned and their lives or how to make the world a better place. Resources and technology are important, but de-centering the technology and guided facilitation are two strategies that effectively create learning experiences that cultivate creativity, cultural-historical understanding, and human-centered problem-solving skills. As the case studies have shown, both high-tech and low-tech are suitable, and museums can partner with other organizations to acquire the technology or develop the educational activities. Remembering to prioritize the soft-skills is essential for museums continuing to develop STEAM and making-centered activities to support schools, K-12 student growth, and our next generation of innovators.
+The needs of the visually impaired pale in comparison to the number of solutions
+that empathetic museum professionals can design into their exhibits and
+institutions that can make our industry accessible to them. Technology and
+careful planning provide us with near-limitless potential when it comes to
+making wayfinding easier, audio descriptions more effective, and art, quite
+literally, within our visitors’ grasp. These efforts need not all be
+wheel-redesigning, boundary-breaking technological marvels. The single unifying
+factor between each of the successful iterations of PVI-inclusive museum
+technology detailed above was not the budget of the team or the novelty of the
+gadgets used –– far from it. The most PVI-accessible implementations of
+technology are those that represent the truth that true accessibility is not an
+item on a checklist, but rather that it is an evolving process that demands
+inclusion of visually impaired perspectives throughout.
 
-
+Technological advances will continue to provide potential engagement
+opportunities for PVI. Until their input and feedback is recognized by the
+museums that claim to represent them, however, no true progress can be made.
+Including PVI perspectives throughout the design process of any new exhibit ––
+through meaningful and empathetic dialogue, to start –– is the only way to
+provide accessibility that is anything more than performative. Conducting
+“outreach” misses the point -– visually impaired visitors do not need to be
+reached out to. They are already in attendance and they have been expressing
+their dissatisfaction with our museums for as long as we have existed. Once
+those perspectives have been incorporated into a design process, the usage of
+technology to address their concerns can begin. Put simply, technology can be an
+excellent tool, but not while museums remain willfully blind to the needs of the
+visually impaired.
 
 ## Notes
 
-[^1]: Veena Vijayakumar, “Steam-Powered: Integrating The Arts And Sciences Into MuseumEducational Practices,” M.A. Thesis San Francisco State University, 2015.
+[^1]: “Low Vision and Legal Blindness Terms and Descriptions,” The American
+    Foundation for the Blind, n.d.,
+    https://www.afb.org/blindness-and-low-vision/eye-conditions/low-vision-and-legal-blindness-terms-and-descriptions.
 
-[^2]: Karen Woodruff, “A History of STEM - Reigniting the Challenge with NGSS and CCSS”, 2013, http://www.us-satellite.net/STEMblog/?p=31, quoted in Veena Vijayakumar, “Steam-Powered: Integrating The Arts And Sciences Into Museum Educational Practices”.
+[^2]: “Vision Impairment and Blindness,” n.d.,
+    https://www.who.int/news-room/fact-sheets/detail/blindness-and-visual-impairment.
 
-[^3]: Boris Granovsky,“Science, Technology, Engineering, and Mathematics (STEM) Education: An Overview,” Congressional Research Service, June 12, 2018, accessed November 9, 2021, https://sgp.fas.org/crs/misc/R45223.pdf.
+[^3]: “Data Stories,” Wilkening Consulting, n.d.,
+    http://www.wilkeningconsulting.com/data-stories.html.
 
-[^4]: David Langdon, George McKittrick, David Beede, Beethika Khan, and Mark Doms, “STEM: Good Jobs Now and For the Future,” U.S. Department of Commerce Economics and Statistics Administration, ESA Issue Brief #03-11, 2011, https://www.commerce.gov/sites/default/files/migrated/reports/stemfinalyjuly14_1.pdf.
+[^4]: “Assessing Attitudes of Blind Adults about Museums – MW20 \| Online,” n.d.,
+    https://mw20.museweb.net/paper/assessing-attitudes-of-blind-adults-about-museums/.
 
-[^5]: Ryan Noonan, “STEM Jobs: 2017 Update,” U.S. Department of Commerce Economics and Statistics Administration, ESA Issue Brief #02-17, 2017, https://www.commerce.gov/sites/default/files/migrated/reports/stem-jobs-2017-update.pdf.
+[^5]: “Assessing Attitudes of Blind Adults about Museums – MW20 \| Online.”
 
-[^6]: “Science, Technology, Engineering, and Math: Education for Global Leadership,” U.S. Department of Education, 2010, https://www.ed.gov/sites/default/files/stem-overview.pdf.
+[^6]: “Diversity, Equity, Accessibility and Inclusion,” American Alliance of
+    Museums, n.d.,
+    https://www.aam-us.org/programs/diversity-equity-accessibility-and-inclusion/.
 
-[^7]: “Critical Evidence: How the Arts Benefit Student Achievement,” National Assembly of State Arts Agencies, 2006, https://files.eric.ed.gov/fulltext/ED529766.pdf.
+[^7]: Braham, “The Inclusive Museum,” Prime Access Consulting, October 1, 2018,
+      https://www.pac.bz/blog/the-inclusive-museum/; Catherine Kudlick, “The Local
+      History Museum, So Near and Yet So Far,” *The Public Historian* 27, no. 2
+      (2005): 75–81, https://doi.org/10.1525/tph.2005.27.2.75; Georgina Kleege,
+      *More than Meets the Eye: What Blindness Brings to Art* (New York: Oxford        University Press, 2018), https://doi.org/10.1093/oso/9780190604356.001.0001.
 
-[^8]: Jen Katz-Buonincontro, Brian Smith, & Jacqueline Genovesi, “Steam-based approaches to out-of-school learning,” in *The SAGE encyclopedia of out-of-school learning,* ed. Kylie Pepper, SAGE Publications, Inc., 2017, https://www.doi.org/10.4135/9781483385198.n285.
+[^8]: Kozue Handa, Hitoshi Dairoku, and Yoshiko Toriyama, “Investigation of
+    Priority Needs in Terms of Museum Service Accessibility for Visually
+    Impaired Visitors,” *British Journal of Visual Impairment* 28, no. 3
+    (September 1, 2010): 221–34, https://doi.org/10.1177/0264619610374680.
 
-[^9]: “Gathering STEAM in Rhode Island,” Rhode Island School of Design, July 15, 2014, accessed October 10, 2021, https://www.risd.edu/news/stories/gathering-steam-rhode-island.
+[^9]: Kailin Wang, “Tactile Navigation System For People with Visual Impairments
+    In Museum,” in *2020 International Conference on Innovation Design and Digital Technology (ICIDDT)*, 2020, 410–14,
+    https://doi.org/10.1109/ICIDDT52279.2020.00082.
 
-[^10]: “What is STEAM Education? Enhancing STEM with the Power of the Arts,” Bellarmine University, accessed Octobert 10, 2021, https://www.bellarmine.edu/blog/article/posts/2020/03/16/what-is-steam-education-enhancing-stem-with-the-power-of-the-arts/.
+[^10]: “Visual impairments,” n.d.,
+    https://www.quaibranly.fr/en/menu-accessibilite/visual-impairments/.
 
-[^11]: Suzanne Choney, “Why do girls lose interest in STEM? New research has some answers – and what we can do about it”, Microsoft, March 13, 2018, https://news.microsoft.com/features/why-do-girls-lose-interest-in-stem-new-research-has-some-answers-and-what-we-can-do-about-it/.
+[^11]: Apostolos Meliones and Demetrios Sampson, “Blind MuseumTourer: A System for
+    Self-Guided Tours in Museums and Blind Indoor Navigation,” *Technologies* 6,
+    no. 1 (March 2018): 4, https://doi.org/10.3390/technologies6010004.
 
-[^12]: Choney, “Why do girls lose interest in STEM?”.
+[^12]: Meliones and Sampson.
 
-[^13]: Steve Tomasco, “IBM 2010 Global CEO Study: Creativity Selected as the Most Crucial Factor for Future Success,” IBM, May 18, 2010, https://newsroom.ibm.com/2010-05-18-IBM-2010-Global-CEO-Study-Creativity-Selected-as-Most-Crucial-Factor-for-Future-Success.
+[^13]: Roberto Vaz, Diamantino Freitas, and António Coelho, *Perspectives of
+    Visually Impaired Visitors on Museums: Towards an Integrative and
+    Multisensory Framework to Enhance the Museum Experience*, 2020,
+    https://doi.org/10.1145/3439231.3439272.
 
-[^14]: Paul Petrone, “Why Creativity is the Most Important Skill in the World,” LinkedIn, November 31, 2018, https://www.linkedin.com/business/learning/blog/top-skills-and-courses/why-creativity-is-the-most-important-skill-in-the-world.
+[^14]: Dhruv Jain, “Pilot Evaluation of a Path-Guided Indoor Navigation System for
+    Visually Impaired in a Public Museum,” in *Proceedings of the 16th
+    International ACM SIGACCESS Conference on Computers & Accessibility*, ASSETS
+    ’14 (New York, NY, USA: Association for Computing Machinery, 2014), 273–74,
+    https://doi.org/10.1145/2661334.2661405.
 
-[^15]: Edward P. Clapp and Raquel L. Jimenez, “Implementing STEAM in Maker-Centered Learning,” *Psychology of Aesthetics, Creativity, and the Arts* 10, no. 4 (2016): 482, http://dx.doi.org.proxygw.wrlc.org/10.1037/aca0000066  .
+[^15]: Claudio Germak and Sara Khan, “Interaction Design Applications for Museum
+    Spaces. New Exhibit Paths Driven by a Bluetooth Sensor’s System,” *The
+    Design Journal* 20, no. sup1 (July 28, 2017): S3914–24,
+    https://doi.org/10.1080/14606925.2017.1352893.      
 
-[^16]: Erica Rosenfeld Halverson and Kimberly Sheridan, “The Maker Movement in Education,” *Harvard Graduate School of Education, Harvard Educational Review* 84, no. 4 (2014): 496.
+[^16]: Santoshi Halder and Lori Czop Assaf, “Enriched Audio Description: Working
+    Towards an Inclusive Museum Experience,” in *Inclusion, Disability and Culture: An Ethnographic Perspective Traversing Abilities and Challenges*
+    (Cham, SWITZERLAND: Springer International Publishing AG, 2017),
+    http://ebookcentral.proquest.com/lib/gwu/detail.action?docID=4856901;
+    Gretchen Henrich, Felice Q. Cleveland, and Emily Wolverton, “Case Studies
+    from Three Museums in Art Beyond Sight’s Multi-Site Museum Accessibility
+    Study,” *Museums & Social Issues* 9, no. 2 (October 1, 2014): 124–43,
+    https://doi.org/10.1179/1559689314Z.00000000023; Beaux Fen Guarini, “Beyond
+    Braille on Toilet Doors: Museum Curators and Audiences with Vision
+    Impairment,” *M/C Journal* 18, no. 4 (August 7, 2015),
+    https://doi.org/10.5204/mcj.1002.
 
-[^17]: Janet Ochs, Richard Powell, and Lisa Czirr, “The Origins of the Maker Movement,” in Resources for Makerspaces, *Choice* 56, no. 7 (2019), https://ala-choice.libguides.com/c.php?g=912604&p=6573864.
+[^17]: Halder and Assaf, “Enriched Audio Description: Working Towards an Inclusive
+    Museum Experience.”
 
-[^18]: “What’s a Makerspace?,” *Make,* Make Community LLC, https://make.co/, quoted in Amy Oates, “Evidences of Learning in an Art Museum Makerspace,” M.A. Thesis University of Washington, 2015.
+[^18]: Alison F. Eardley and Linda Pring, “Remembering the Past and Imagining the
+    Future: A Role for Nonvisual Imagery in the Everyday Cognition of Blind and
+    Sighted People,” *Memory* 14, no. 8 (November 1, 2006): 925–36,
+    https://doi.org/10.1080/09658210600859582.
 
-[^19]: “Making,” Institute of Museum and Library Services.
+[^19]: Eardley and Pring.
 
-[^20]: Clapp and Jimenez, “Implementing STEAM,” 482.
+[^20]: R. Hutchinson, “Museums for All: Towards Engaging, Memorable Museum
+    Experiences through Inclusive Audio Description” (doctoral, University of
+    Westminster, 2019),
+    https://westminsterresearch.westminster.ac.uk/item/v01vw/museums-for-all-towards-engaging-memorable-museum-experiences-through-inclusive-audio-description.
 
-[^21]: Amy Oates, “Evidences of Learning in an Art Museum Makerspace,” M.A. University of Washington, 2015, 9.
+[^21]: Hutchinson.
 
-[^22]: Mark Hatch, *The Maker Movement Manifesto: Rules for Innovation in the New World of Crafters, Hackers, and Tinkerers*, (McGraw-Hill, 2013).
+[^22]: Hutchinson.
 
-[^23]: Zoe Sullivan, “Why a Makerspace Popped up in a Museum,” Next City, July 9, 2019, https://nextcity.org/urbanist-news/entry/why-a-makerspace-popped-up-in-a-museum.
+[^23]: Rachel S. Hutchinson and Alison F. Eardley, “The Accessible Museum: Towards
+    an Understanding of International Audio Description Practices in Museums,”
+    *Journal of Visual Impairment & Blindness* 114, no. 6 (November 1, 2020):
+    475–87, https://doi.org/10.1177/0145482X20971958.
 
-[^24]: “What’s a Makerspace?,” *Make*, Make Community LLC, https://make.co/, quoted in Amy Oates, “Evidences of Learning in an Art Museum Makerspace,” M.A. University of Washington, 2015, 10.
+[^24]: “Cultus \_9_Volume_2_2016.Pdf,” accessed October 31, 2021,
+    http://www.cultusjournal.com/files/Archives/Cultus9_2016_2/cultus%20_9_Volume_2_2016.pdf.
 
-[^25]: Halverson and Sheridan, “The Maker Movement in Education,” 499.
+[^25]: “Cultus \_9_Volume_2_2016.Pdf.”
 
-[^26]: Halverson and Sheridan, “The Maker Movement in Education,” 499.
+[^26]: “Cultus \_9_Volume_2_2016.Pdf.”
 
-[^27]: “Making,” Institute of Museum and Library Services, accessed October 10, 2021, https://www.imls.gov/our-work/priority-areas/making.
+[^27]: Natacha Rios The Associated Press, “Please Touch: Louvre Opens Room for
+    Blind and Visually Impaired,” Arizona Daily Star, n.d.,
+    https://tucson.com/entertainment/please-touch-louvre-opens-room-for-blind-and-visually-impaired/article_d3c73526-023a-5107-bed9-1b58abfa9352.html.
 
-[^28]: Maria C. Zacharias, “Learning through making,” National Science Foundation, June 17, 2014, accessed Nov. 8, 2021, https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=131761.
+[^28]: Roberto Vaz, Paula Odete Fernandes, and Ana Cecília Rocha Veiga, “Designing
+    an Interactive Exhibitor for Assisting Blind and Visually Impaired Visitors
+    in Tactile Exploration of Original Museum Pieces,” *Procedia Computer Science*, CENTERIS 2018 - International Conference on ENTERprise Information
+    Systems / ProjMAN 2018 - International Conference on Project MANagement /
+    HCist 2018 - International Conference on Health and Social Care Information
+    Systems and Technologies, CENTERIS/ProjMAN/HCist 2018, 138 (January 1,
+    2018): 561–70, https://doi.org/10.1016/j.procs.2018.10.076.
 
-[^29]: Desi Gonzalez, “Museum making: Creating with emerging technologies in art museums,” MW2015: Museums and the Web 2015, February 1, 2015, accessed November 9, 2021, https://mw2015.museumsandtheweb.com/paper/museum-making-creating-with-emerging-technologies-in-art-museums/.
+[^29]: Gunnar Jansson, Massimo Bergamasco, and Antonio Frisoli, “A New Option for
+    the Visually Impaired to Experience 3D Art at Museums: Manual Exploration of
+    Virtual Copies,” *Visual Impairment Research* 5, no. 1 (April 2003): 1,
+    https://doi.org/10.1076/vimr.5.1.1.15973.
 
-[^30]: “Peabody Essex Museum Invites Innovators to its Maker Lounge,” ArtfixDaily, January 8, 2015, https://www.artfixdaily.com/artwire/release/4345-peabody-essex-museum-invites-innovators-to-its-maker-lounge.
+[^30]: Chung Hyuk Park, Eun-Seok Ryu, and Ayanna M. Howard, “Telerobotic Haptic
+    Exploration in Art Galleries and Museums for Individuals with Visual
+    Impairments,” *IEEE Transactions on Haptics* 8, no. 3 (July 2015): 327–38,
+    https://doi.org/10.1109/TOH.2015.2460253.
 
-[^31]: “About ARTLAB,” Hirshhorn Museum, Hirshhorn Museum and Sculpture Garden, accessed Nov. 8, 2021, https://hirshhorn.si.edu/explore/about-artlab/.
+[^31]: Radu Comes, “HAPTIC DEVICES AND TACTILE EXPERIENCES IN MUSEUM EXHIBITIONS,”
+    *JOURNAL OF ANCIENT HISTORY AND ARCHAEOLOGY* 3 (December 30, 2016),
+    https://doi.org/10.14795/j.v3i4.205.
 
-[^32]: “Draper Spark!Lab,” National Museum of American History, Smithsonian Institution, accessed November 9, 2021, https://americanhistory.si.edu/exhibitions/sparklab.
+[^32]: Ahmad Javaid, Hammad Munawar, and Mohammad Armughan Mohyuddin, “A Low Cost
+    1-DoF Encounter Type Haptic Device for Use in Education,” *2019 International Conference on Robotics and Automation in Industry (ICRAI)*,
+    2019, https://doi.org/10.1109/ICRAI47710.2019.8967395.
 
-[^33]: Castle U. Kim, “When a Summer Camp, Innovation Hub and an Herbarium Meet: How STEAM Collaboration Can Build A Humanized Experience with Technology,”In *Humanizing the Digital: Unproceedings from the MCN 2018 Conference,* by Suse Anderson, Isabella Bruno, Hannah Hethmon, Seema Rao, Ed Rodley, and Rachel Ropeik, Ad Hoc Museum Collective, 2019, https://ad-hoc-museum-collective.github.io/humanizing-the-digital/chapters/15/.
+[^33]: “Touch,” 3D Systems, June 9, 2016,
+    https://www.3dsystems.com/haptics-devices/touch.
 
-[^34]: Gonzalez, “Museum making: Creating with emerging technologies in art museums”.
+[^34]: Silvia Ceccacci et al., “The Role of Haptic Feedback and Gamification in
+    Virtual Museum Systems,” *Journal on Computing and Cultural Heritage* 14,
+    no. 3 (July 1, 2021): 38:1-38:14, https://doi.org/10.1145/3453074.
 
-[^35]: Paulo Freire, “Chapter 2 from ‘Pedagogy of the Oppressed,’” *Race/ethnicity : multidisciplinary global contexts* 2, no. 2 (2009): 57-74.
+[^35]: Ceccacci et al.
 
-[^36]: Freire, “Chapter 2 from ‘Pedagogy of the Oppressed,’” 66-7.
+[^36]: Veronica Riavis, “Discovering Architectural Artistic Heritage Through the
+    Experience of Tactile Representation: State of the Art and New Development,”
+    *DISEGNARECON* 12, no. 23 (December 31, 2019): 10-10.9.
 
-[^37]: Gonzalez, “Museum making: Creating with emerging technologies in art museums”.
-
-[^38]: Nina Simon, “Preface: Why Participate?,” In *The Participatory Museum,* Santa Cruz: Museum 2.0, 2010, http://www.participatorymuseum.org/preface/.
-
-[^39]: Simon, Nina. *The Participatory Museum.*
-
-[^40]: Gonzalez, “Museum making.”
-
-[^41]: Don Undeen, “Introducing the Media Lab,” The Metropolitan Museum of Art, September 27, 2013, https://www.metmuseum.org/blogs/digital-underground/posts/2013/introducing-the-media-lab.
-
-[^42]: Halverson and Sheridan, “The Maker Movement in Education,” 499.
-
-[^43]: “Brinn Museum named one of 15 National Designated Making Space Hubs,” *OnMilwaukee*, February 22, 2018, https://onmilwaukee.com/articles/brinn-steam-schools.
-
-[^44]: “Brinn Museum named one of 15 National Designated Making Space Hubs,” *OnMilwaukee*.
-
-[^45]: Jacqualine Grant and Delaney Patterson, “Innovative Arts Programs Require Innovative Partnerships: A Case Study of STEAM Partnering between an Art Gallery and a Natural History Museum,” *The Clearning House: A Journal of Educational Strategies, Issues, and Ideas* 89, no. 4-5 (2016): 146.
-
-[^46]: D. Dougherty, “The maker movement,” *Innovations* 7, no 3. (2012), 11-14. Quoted in Annie White, Thomas Akiva, Peter S. Wardrip, Lisa Brahms, “Facilitated Making in Museum-Based Educational Makerspaces,” *Curator* 64, no. 1 (2021): 131–154.
-
-[^47]: Castle U. Kim, “When a Summer Camp, Innovation Hub and an Herbarium Meet.”
-
-[^48]: Hannah Turner, Gabby Resch, Daniel Southwick, Rhonda McEwen, Adam K. Dube, and Isaac Record, “Using 3D Printing to Enhance Understanding and Engagement with Young Audiences: Lessons from Workshops in a Museum,” *Curator* 60, no. 3 (2017): 311-333, https://doi.org/10.1111/cura.12224.
-
-[^49]: Turner et al., “Using 3D Printing to Enhance Understanding and Engagement,” 311.
-
-[^50]: “What is STEAM Education?,” Bellarmine University.
-
-[^51]: Turner et al., “Using 3D Printing to Enhance Understanding and Engagement,” 314.
-
-[^52]: Turner et al., “Using 3D Printing to Enhance Understanding and Engagement,” 317.
-
-[^53]: Turner et al., “Using 3D Printing to Enhance Understanding and Engagement,” 311.
-
-[^54]: Turner et al., “Using 3D Printing to Enhance Understanding and Engagement,” 328.
-
-[^55]: Turner et al., “Using 3D Printing to Enhance Understanding and Engagement,” 328-329.
-
-[^56]: Turner et al., “Using 3D Printing to Enhance Understanding and Engagement,” 330.
-
-[^57]: “Mission and Vision,” Children’s Creativity Museum, accessed October 10, 2021, https://creativity.org/mission-vision/.
-
-[^58]: “Fulfill your design + build inspiration at Sketch Town,” Yerba Buena Gardens, October 27, 2017, https://yerbabuenagardens.com/fulfill-design-build_inspiration-sketch-town/.
-
-[^59]: “Imagination Lab,” Children’s Creativity Museum, accessed October 10, 2021, https://creativity.org/blog/exhibits/imagination-lab/.
-
-[^60]: Institute of Museum and Library Services (U.S.) and Children’s Museum ofPittsburg, *Making+ Learning in Museums and Libraries A Practitioner’s Guide and Framework*, Institute of Museum and Library Services (U.S.), 2016, 26-27.
-
-[^61]: White et al., “Facilitated Making in Museum‐Based Educational Makerspaces,” 131.
-
-[^62]: Kristin Cook and Sarah Bush, “Design thinking in integrated STEAM learning: Surveying the landscape and exploring exemplars in elementary grades,” *School Science and Mathematics* 118, no 3 (2018): 93-103. doi: 10.1111/ssm.12268.
-
-[^63]: Kristin Cook and Sarah Bush, *Step into STEAM: Your standards-based action plan for deepening mathematics and science learning* ( Thousand Oaks, CA: Corwin, 2019), quoted in Sarah Bush and Kristin Cook, “STEAM Learning Experiences: Thinking Beyond a Makerspace,” Corwin Connect, July 10, 2019, https://corwin-connect.com/2019/07/steam-learning-experiences-thinking-beyond-a-makerspace/.
+[^37]: Park, Ryu, and Howard, “Telerobotic Haptic Exploration in Art Galleries and
+    Museums for Individuals with Visual Impairments.”

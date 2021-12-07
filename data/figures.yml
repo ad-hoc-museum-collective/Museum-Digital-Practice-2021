@@ -1,35 +1,49 @@
 figure_list:
-  - id: "dog1"
-    src: figures/lange.jpg
-    caption: "*Dorothea Lange, Resettlement Administration photographer, in California*, 1936."
-    credit: "Library of Congress Prints and Photographs Division"
+  - id: "fig-valera-01"
+    src: figures/fig-valera-01.png
+    caption: "Figure 1: [Facebook post by Unionville Museum](https://www.facebook.com/Unionville-Museum-211894214748/) requesting photos and stories about COVID-19’s impact on residents and the local community. They include photos of the local Farmington High School’s LED sign and a sidewalk chalk drawing. Accessed on Unionville Museum’s Facebook page, October 15, 2021."
+    alt: "Facebook post from Unionville Museum posted on March 24, 2020. Caption requests photos and stories about the pandemic. The images included are of Farmington High School's digital sign with the words 'One School One Community One Us' and a photo of a chalk drawing with the words 'Stay Health' and an image of a person holding balloons."
   - id: "valera2"
     src: figures/fig-valera-02.png
+    caption: "Figure 2: Screen recording of the Chicago History Museum’s *In This Together* webpage. Includes information about the Museum’s collecting project, requirements, and the submission portal. Recorded by author October 27, 2021."
+    alt: "Screen recording of the Chicago History Museum's submission portal. At the top of the page is a blue banner with the text 'In This Together' followed by drop downs with advice and directions for submission. Then a dropbox location for object upload and fields for metadata entry. At the end are the terms and conditions and a submit button."
     media_id: 2_akQ2xYs5c
     media_type: youtube
+  - id: "fig-valera-03"
+    src: figures/fig-valera-03.png
+    caption: "Figure 3: Screen capture of the Museum of Ventura County’s COVID-19: Rapid Response Collecting webpage. Recorded by author October 27, 2021."
+    alt: "Screen capture of the Museum of Ventura County's *COVID-19:Rapid Response Collecting* page with information about the project. It is a page with a read header and a photo of a pile of masks on the upper right. A red button labeled “Submit Content” is then clicked that brings up the submission portal. The page has a black line drawing of the Museum on a white background and a dropdown menu. The user clicks on “Photograph” which brings up a list of questions and text boxes."
   - id: "valera4"
     src: figures/fig-valera-04.png
     media_id: cdHoIizxBBg
     media_type: youtube
+    caption: "Figure 4: Photo of questions from the Museum of Ventura County’s COVID-19 collecting portal. An example of a confusing question is bracketed in red. Accessed October 23, 2021."
+    alt: "Four questions and text boxes are visible. The second from the top has a red box around it. To the left of the box says “Provide details about what --or who-- it depicts.” Above the text box says “The topic of the resource.”"
   - id: "valera5"
     src: figures/fig-valera-05.png
     media_id: PFCFJIO6GBU
     media_type: youtube
+    caption: "Figure 5: Screen recording of the Museum of the Home’s *Stay Home* collecting webpage. Recorded by author October 27, 2021."
+    alt: "Screen recording of the Museum of the Home's *Stay Home* collecting project. The first page describes the project. A button labeled “Share your Experience” is clicked and brings up the submission portal. The first page is titled “About Your Home” and contains questions with large text boxes. The second page is titled “Your Photos” and allows the user to upload 5 photos before describing them in a text box. The final page is titled “About You” and contains demographic questions with smaller text boxes. At the bottom is the Archive Agreement, captcha, and submit button."
+  - id: "fig-valera-06"
+    src: figures/fig-valera-06.png
+    caption: "Map of submissions for In This Together, the Chicago History Museum’s collecting initiative. Submissions are clustered to the North Side of the city, with the only submissions from the South Side coming from Oak Lawn and Hyde Park. Accessed October 26, 2021."
+    alt: "Photo of a map of Chicago. On the right, Lake Michigan is represented in blue, while the city to the left is gray with white lines representing the streets and yellow representing the highways. There are green areas representing parks across town. Red pins represent locations from where submissions were received. They are mainly grouped along the Northern coast of the city. A few more are scattered outwards towards the suburbs."
   - id: "fig-storercorrada-01"
     src: figures/fig-storercorrada-01.jpg
-    caption: "[Screenshot of the object page for a 19th  century *tiple* in the NMNH online collections.](http://n2t.net/ark:/65665/33f53b0b7-ae6c-49d8-97a3-18a40325db36)  Although the page only provides the same minimal information available on the card catalog, the images of the object are of high quality."
+    caption: "[Figure 1: Screenshot of the object page for a 19th  century *tiple* in the NMNH online collections.](http://n2t.net/ark:/65665/33f53b0b7-ae6c-49d8-97a3-18a40325db36)  Although the page only provides the same minimal information available on the card catalog, the images of the object are of high quality."
     alt: "Screenshot of the online catalog page for a string instrument called tiple in the Smithsonian National Museum of Natural History online collection. A list with four results for a keyword search for tiple is visible in the left background."
   - id: "fig-storercorrada-02"
     src: figures/fig-storercorrada-02.jpg
-    caption: "[Screenshot of the “Musical Instruments for the Noh Dance” object page on The Met’s website](https://www.metmuseum.org/art/collection/search/54560). The “Related Objects” section, highlighted in a yellow rectangle, displays prints by the same artists but no related musical instruments."
+    caption: "[Figure 2: Screenshot of the “Musical Instruments for the Noh Dance” object page on The Met’s website](https://www.metmuseum.org/art/collection/search/54560). The “Related Objects” section, highlighted in a yellow rectangle, displays prints by the same artists but no related musical instruments."
     alt: "Screenshot of a page on the Metropolitan Museum of Art website for a print on paper titled “Musical Instruments for the Noh Dance” which depicts two hourglass-shaped drums, a scroll, a paper fan, and some fabric. The bottom of the page shows a section highlighted in yellow titled Related Objects in which there is a row of five images of other Japanese prints."
   - id: "fig-storercorrada-03"
     src: figures/fig-storercorrada-03.jpg
-    caption: "[Screenshot of the “O-tsuzumi (大鼓  )” drum object page on The Met’s website.](https://www.metmuseum.org/art/collection/search/504426)  The “Related Objects” section, highlighted in a yellow rectangle, displays other musical instruments but not the print mentioned above nor other related artworks."
+    caption: "[Figure 3: Screenshot of the “O-tsuzumi (大鼓  )” drum object page on The Met’s website.](https://www.metmuseum.org/art/collection/search/504426)  The “Related Objects” section, highlighted in a yellow rectangle, displays other musical instruments but not the print mentioned above nor other related artworks."
     alt: "Screenshot of a page on the Metropolitan Museum of Art website for an hourglass-shaped Japanese drum called O-tsuzumi, part of a set of three. The bottom of the page shows a section highlighted in yellow titled Related Objects in which there is a row of five images of musical instruments."
   - id: "fig-storercorrada-04"
     src: figures/fig-storercorrada-04.jpg
-    caption: "[Screenshot of the Tags and Related Objects section on the “The Actors Matsumoto Yonesaburo and Segawa Kikunojo” object page on the Brooklyn Museum website.](https://www.brooklynmuseum.org/opencollection/objects/9784) The Related Objects, generated by user- and curator-submitted tags include musical instruments, artworks, furniture, and utensils."
+    caption: "[Figure 4: Screenshot of the Tags and Related Objects section on the “The Actors Matsumoto Yonesaburo and Segawa Kikunojo” object page on the Brooklyn Museum website.](https://www.brooklynmuseum.org/opencollection/objects/9784) The Related Objects, generated by user- and curator-submitted tags include musical instruments, artworks, furniture, and utensils."
     alt: "Screenshot of a portion of an object page on the Brooklyn Museum website. Under the title Tags the words Acting, Drum, Japanese, Poetry, Ukiyo-e, Actor, Edo Period, Kabuki, Stage, Musical Instrument, Costume, Japan, Kimono, and Theater are listed in three columns."
   - id: "fig-Coward-01"
     src: figures/fig-Coward-01.jpg
@@ -69,17 +83,73 @@ figure_list:
     alt: "Almost exactly the same as the previous image, but this time the touch screen in the foreground simply has the words Look Up in the center with an arrow pointing to the top of the screen. The lights on the LED globe have changed; the land masses have disappeared and a graphic of two bright white swords surrounded by blue has replaced them."
   - id: "Dunhuang-1"
     src: figures/Dunhuang-1.png
-    caption:
-    alt: "The image is a screenshot of the homepage of the IDP website."
+    caption: "A screenshot of the homepage of the IDP website."
+    alt:
   - id: "Dunhuang-2"
     src: figures/Dunhuang-2.png
-    caption:
-    alt: "The image is a screenshot of the Chinese collection page on the IDP website."
+    caption: "A screenshot of the Chinese collection page on the IDP website."
+    alt:
   - id: "Dunhuang-3"
     src: figures/Dunhuang-3.png
-    caption:
-    alt: "The image is the Advanced Search section on the IDP website."
+    caption: "The Advanced Search section on the IDP website."
+    alt:
   - id: "Dunhuang-4"
     src: figures/Dunhuang-4.png
-    media_id: 12234863
+    media_id: 70756977
     media_type: vimeo
+  - id: "fig-sanford-01"
+    src: figures/fig-sanford-01.jpg
+    caption: "Figure 1: A gallery in the Quai Branly Museum featuring raised flooring that leads to a listening station for PVI"
+    alt: "A picture of a gallery in the Quai Branley Art Museum with white walls, a black floor, and paintings of the outdoors on the walls. On the floor, a textured strip of tile marks the path to a listening station with headphones."
+  - id: "fig-sanford-02"
+    src: figures/fig-sanford-02.jpg
+    caption: "Figure 2: A tactile 3D map at the Getty Museum in Los Angeles."
+    alt: "A picture containing a person's hand touching a tactile 3D map at the Getty Museum in Los Angeles."
+  - id: "fig-sanford-03"
+    src: figures/fig-sanford-03.jpg
+    caption: "Figure 3: Adhesive tactile flooring markers"
+    alt: "A picture featuring raised silver adhesive floor markers on a dark grey stone floor meant to assist the visually impaired in navigating."
+  - id: "fig-sanford-04"
+    src: figures/fig-sanford-04.jpg
+    caption: "Figure 4: A reproduction of Allegrain’s Venus After the Bath, available for visitors to touch in the Louvre’s Tactile Gallery"
+    alt: "A picture of a small white statue of a woman who is bending down to dry herself off after a bath. This is a reproduction of Allegrain's *Venus After the Bath* which can be touched by visually impaired visitors at the Louvre's tactile gallery"
+  - id: "fig-sanford-05"
+    src: figures/fig-sanford-05.jpg
+    caption: "Figure 5: Proposed usage of haptic feedback device at the National Museum of Transylvanian History."
+    alt: "In this picture, a woman's hand holds a stylus that this connected to a rotating arm on a small grey machine. Using this system, visually impaired visitors can feel objects in the museum's collection."
+  - id: "fig-sanford-06"
+    src: figures/fig-sanford-06.jpg
+    caption: "Figure 6: The Touching Masterpieces exhibition allowed visitors to “touch” virtual reproductions of famous works of art through use of haptic feedback gloves."
+    alt: "In this picture, a man holds up a pair of gloves connected to a series of wires. On a small screen in the top left, we see digital representations of his hands touching Michelangelo's *David*."
+  - id: "Figure1"
+    src: figures/Figure1.jpeg
+    caption: "Image of a marble Sphinx from the Metropolitan Museum of Art. Details of past patterns in paint can still be seen on the wings and chest."
+    alt:
+  - id: "Figure2"
+    src: figures/Figure2.jpeg
+    caption: "The Library of Congress's Oberlin Betts violin, a modern replica of the Library's Stradivarius Betts violin, undergoes x-ray fluorescence spectroscopy in the Preservation Research and Testing Division to test effects of use, October 8, 2019. Photo by Shawn Miller/Library of Congress."
+    alt:
+  - id: "Figure3"
+    src: figures/Figure3.jpeg
+    caption: "Portion of the Siphnian Treasury frieze with figure, identified as Achilles, holding the Medusa shield."
+    alt:
+  - id: "Figure4"
+    src: figures/Figure4.jpeg
+    caption: "A portable X-ray fluorescence (XRF) machine being used in a laboratory to determine the composition of the gilded copper-alloy fittings on a drinking bottle (c) MOLA"
+    alt:
+  - id: "Figure5"
+    src: figures/Figure5.jpg
+    caption: "Reconstruction of the Peplos Kore from Gods in Color exhibition. Photo credited to Giovanni Dall'Orto on Wikimedia Commons."
+    alt:
+  - id: "Figure6"
+    src: figures/Figure6.jpg
+    caption: "Reconstruction of head of figure on the Temple of Aphaia with the original piece, on a loan from the Glyptotek in Munich, in the Gods in Color exhibition. Photo credited to Giovanni Dall'Orto on Wikimedia Commons."
+    alt:
+  - id: "Figure7"
+    src: figures/Figure7.jpg
+    caption: "Image of polychromy of Ara Pacis featured at the Ara Pacis Museum in Rome."
+    alt:
+  - id: "Figure8"
+    src: figures/Figure8.jpg
+    caption: "Location of polychromy information in relation to the actual Ara Pacis within the Ara Pacis Museum in Rome. The polychromy section is on the right as you enter and most visible to visitors as they leave."
+    alt:

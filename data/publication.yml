@@ -86,9 +86,9 @@ contributor:
     last_name: Dunn
     title:
     affiliation: The George Washington University
-    bio:
+    bio: "Maura Dunn is currently a first year graduate student at the George Washington University with a focus in Exhibitions and Visitor Experience. She received her undergraduate degree in History from the University of South Carolina and moved to Washington D.C. in August 2020. Maura strives to one day work for the Smithsonian American History Museum here in D.C. Email: [maurad@gwu.edu](mailto:maurad@gwu.edu)."
     url:
-    pic:
+    pic: contributors/mdunn.jpg
   - id: sgiramma
     type: primary
     first_name: Saskia
@@ -124,7 +124,7 @@ contributor:
     affiliation: The George Washington University
     bio: "Born in Shenyang, China, Zhujun Hou is an international student in the Museum Studies Program, focusing on museum exhibition and visitor’s experience.  She got her Bachelor degree in Art History and minor in ceramic from Centre College in Danville, Kentucky. Zhujun is really interested in Buddhist cave arts (Dunhuang Mogao Caves), Asian art  and museum curatorial works in general. Email: [asteriahou@gmail.com](mailto:asteriahou@gmail.com)  Instagram: [houzhujun](https://instagram.com/houzhujun)."
     url:
-    pic:
+    pic: contributors/zhou.jpg
   - id: mlynch
     type: primary
     first_name: Matthew
@@ -149,9 +149,9 @@ contributor:
     last_name: New
     title:
     affiliation: The George Washington University
-    bio:
+    bio: "Terrance New is a second-year Master’s candidate in Anthropology with a concentration in Museum Studies and holds a B.S. from the George Washington University in Biological Anthropology.  His research interests include the ecology and evolution of early humans, primatology, and public engagement with science."
     url:
-    pic:
+    pic: contributors/tjnew.jpg
   - id: mnguyen
     type: primary
     first_name: Megan
@@ -167,9 +167,9 @@ contributor:
     last_name: Rice
     title:
     affiliation: The George Washington University
-    bio:
+    bio: "Kate Rice is a second year Museum Studies student at the George Washington University. With her concentration in Museum Management, Rice hopes to work in project management or development after graduation in May 2021. Rice has previously interned with the National Asian Art Museum and the George Washington University Museum and the Textile Museum."
     url:
-    pic:
+    pic: contributors/krice.jpg
   - id: jsanford
     type: primary
     first_name: Jake
