@@ -78,16 +78,10 @@ technological solutions can be employed. A relatively low-tech option may
 involve using tactile markers set into the ground in combination with textured
 materials on the walls (like embossed leather, for instance) that both guide the
 experience of PVI and invite the use of touch to navigate rather than sight, as
-practiced in the Quai Branly Museum [(fig 1)](#fig-sanford-01) [(fig 2)](#fig-sanford-02).[^9] The Quai Branly Museum is also amongst a growing contingent of museums that offer a 3D model of the museum itself that
+practiced in the Quai Branly Museum.[^9] The Quai Branly Museum is also amongst a growing contingent of museums that offer a 3D model of the museum itself that
 can help PVI orient themselves and guide their experiences throughout the
 museum, as well as a “tactile exploration guide” that can be printed out on
-raised paper prior to a visitor entering the museum [(fig 3)](#fig-sanford-03).[^10]
-
-{{< q-figure id="fig-sanford-01" >}}
-
-{{< q-figure id="fig-sanford-02" >}}
-
-{{< q-figure id="fig-sanford-03" >}}
+raised paper prior to a visitor entering the museum.[^10]
 
 More technologically-intensive solutions have been implemented in multiple
 locations in Greece, where visitors can utilize the *Blind MuseumTourer* app to
@@ -220,9 +214,7 @@ result in a more enriching experience for all.[^35] At the Prague National
 Gallery, the exhibition *Touching Masterpieces* showcased some of the most
 advanced haptic technologies currently available and outfitted visitors with a
 set of haptic gloves that could reproduce the feeling of touching the Venus de
-Milo and other pieces in real space [(fig 6)](#fig-sanford-06).[^36]
-
-{{< q-figure id="fig-sanford-06" >}}<a name="fig-sanford-06"></a>
+Milo and other pieces in real space.[^36]
 
 Perhaps the most exciting implications of the use of haptic technology comes
 from studies like Park et. al.’s *Telerobotic Haptic Exploration in Art

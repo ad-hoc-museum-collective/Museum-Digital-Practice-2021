@@ -50,7 +50,7 @@ contributor:
     last_name: Anderson
     title: Assistant Professor, Museum Studies
     affiliation: The George Washington University
-    bio: "Dr. Suse Anderson (She/Her) is Assistant Professor, Museum Studies at [The George Washington University](https://corcoran.gwu.edu/museum-studies) and producer [Museopunks](http://museopunks.org)–the podcast for the progressive museum. A former President of [MCN](http://mcn.edu), Anderson teaches courses related to museums and technology, ethics and visitor experience. She holds a PhD from The University of Newcastle, Australia. [Connect on Twitter.](http://twitter.com/shineslike)"
+    bio: "Dr. Suse Anderson (She/Her) is Assistant Professor, Museum Studies at [The George Washington University](https://corcoran.gwu.edu/museum-studies) and producer [museopunks](http://museopunks.org)–the podcast for the progressive museum. A former President of [MCN](http://mcn.edu), Anderson teaches courses related to museums and technology, ethics and visitor experience. She holds a PhD from The University of Newcastle, Australia. [Connect on Twitter.](http://twitter.com/shineslike)"
     url:
     pic: contributors/suse-anderson.jpg
   - id: achen
@@ -155,7 +155,7 @@ contributor:
   - id: mnguyen
     type: primary
     first_name: Megan
-    last_name: Nguyen
+    last_name: Nguyễn
     title:
     affiliation: The George Washington University
     bio: "Megan Nguyễn is a first-year Museum Studies student at George Washington University with a concentration in Exhibition and Visitor Experience. She sees museum spaces as a creative medium for storytelling, human connection, continued learning, and social justice. She commits herself to examining museology with equity at the forefront and working towards provide inclusive spaces that more accurately reflect the diversity of current and future generation of museum visitors."

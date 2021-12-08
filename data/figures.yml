@@ -153,3 +153,19 @@ figure_list:
     src: figures/Figure8.jpg
     caption: "Location of polychromy information in relation to the actual Ara Pacis within the Ara Pacis Museum in Rome. The polychromy section is on the right as you enter and most visible to visitors as they leave."
     alt:
+  - id: "fig-TJ-01"
+    src: figures/fig-TJ-01.jpg
+    caption: "Figure 1: Evolution Frequently Asked Questions Computer"
+    alt: "zoomed in picture of the Evolution FAQ computers and the display shows the religion and evolution questions."
+  - id: "fig-TJ-02"
+    src: figures/fig-TJ-02.jpg
+    caption: "Figure 2: Map of The Hall of Human Origins"
+    alt: "Map of the David H. Koch Hall of human origins exhibit at the Smithsonian Museum of Natural History"
+  - id: "fig-TJ-03"
+    src: figures/fig-TJ-03.jpg
+    caption: "Figure 3: The Broader Social Impact Committee meets to discuss the public understanding of evolution, religious understandings, and the message of public outreach"
+    alt: "Photo shows a group of individuals in a conference room during one of the Broader Social Impacts committee meetings."
+  - id: "fig-TJ-04"
+    src: figures/fig-TJ-04.jpg
+    caption: "Figure 4: The Evolution Frequently Asked Questions exhibits, located near the Time Tunnel and Entrance by the Ocean Hall"
+    alt: "Photo shows a zoomed out view of the Evolution FAQ computers and the question above the computers reads: what do you want to know about evolution?"
