@@ -71,13 +71,13 @@ The Smithsonian’s Hall of Human Origins Evolution Frequently Asked Questions c
 
 
 ## Notes
-[^1]:Asma 2001; Barone et al. 2014; Pobiner 2016
-[^2]:Pobiner, Briana L. 2017. “The Quest to Understand Human Evolution: A Magical Mystery Tour.” *The American Biology Teacher* 79 (2): 77–77. https://doi.org/10.1525/abt.2017.79.2.77.
-[^3]:Miller Jon D., Scott Eugenie C., and Okamoto Shinji. 2006. “Public Acceptance of Evolution.” *Science* 313 (5788): 765–66. https://doi.org/10.1126/science.1126746.
-[^4]:Hermann, Ronald S. 2013. “High School Biology Teachers’ Views on Teaching Evolution: Implications for Science Teacher Educators.” *Journal of Science Teacher Education* 24 (4): 597–616. https://doi.org/10.1007/s10972-012-9328-6. 608
-[^5]:Pobiner, Briana. 2016. “Accepting, Understanding, Teaching, and Learning (Human) Evolution: Obstacles and Opportunities.” *American Journal of Physical Anthropology* 159 (S61): 232–74. https://doi.org/10.1002/ajpa.22910.
-[^6]:Pobiner 2016: 265
-[^7]:Colburn and Henriques 2006
-[^8]:Pobiner, Briana, Paul M Beardsley, Constance M Bertka, and William A Watson. 2018. “Using Human Case Studies to Teach Evolution in High School A.P. Biology Classrooms.” *Evolution: Education and Outreach* 11 (1): 3. https://doi.org/10.1186/s12052-018-0077-7.
-[^9]:Pobiner et al. 2018
-[^10]:Miller, Jon D., Eugenie C. Scott, Mark S. Ackerman, Belén Laspra, Glenn Branch, Carmelo Polino, and Jordan S. Huffaker. 2021. “Public Acceptance of Evolution in the United States, 1985–2020.” *Public Understanding of Science*, August, 2021. https://doi.org/10.1177/09636625211035919; Miller et al. 2006
+[^1]: Asma, Stephen T. 2003. Stuffed Animals and Pickled Heads: The Culture and Evolution of Natural History Museums. 1st edition. Oxford New York: Oxford University Press; Barone, Lindsay M., Andrew J. Petto, and Benjamin C. Campbell. 2014. “Predictors of Evolution Acceptance in a Museum Population.” Evolution: Education and Outreach 7 (1): 23. https://doi.org/10.1186/s12052-014-0023-2; Pobiner, Briana. 2016. “Accepting, Understanding, Teaching, and Learning (Human) Evolution: Obstacles and Opportunities.” *American Journal of Physical Anthropology* 159 (S61): 232–74. https://doi.org/10.1002/ajpa.22910
+[^2]: Pobiner, Briana L. 2017. “The Quest to Understand Human Evolution: A Magical Mystery Tour.” *The American Biology Teacher* 79 (2): 77–77. https://doi.org/10.1525/abt.2017.79.2.77.
+[^3]: Miller Jon D., Scott Eugenie C., and Okamoto Shinji. 2006. “Public Acceptance of Evolution.” *Science* 313 (5788): 765–66. https://doi.org/10.1126/science.1126746.
+[^4]: Hermann, Ronald S. 2013. “High School Biology Teachers’ Views on Teaching Evolution: Implications for Science Teacher Educators.” *Journal of Science Teacher Education* 24 (4): 597–616. https://doi.org/10.1007/s10972-012-9328-6. 608
+[^5]: Pobiner 2016
+[^6]: Pobiner 2016: 265
+[^7]: Colburn, Alan, and Laura Henriques. 2006. “Clergy Views on Evolution, Creationism, Science, and Religion.” Journal of Research in Science Teaching 43 (April): 419–42. https://doi.org/10.1002/tea.20109.
+[^8]: Pobiner, Briana, Paul M Beardsley, Constance M Bertka, and William A Watson. 2018. “Using Human Case Studies to Teach Evolution in High School A.P. Biology Classrooms.” *Evolution: Education and Outreach* 11 (1): 3. https://doi.org/10.1186/s12052-018-0077-7.
+[^9]: Pobiner et al. 2018
+[^10]: Miller, Jon D., Eugenie C. Scott, Mark S. Ackerman, Belén Laspra, Glenn Branch, Carmelo Polino, and Jordan S. Huffaker. 2021. “Public Acceptance of Evolution in the United States, 1985–2020.” *Public Understanding of Science*, August, 2021. https://doi.org/10.1177/09636625211035919; Miller et al. 2006
