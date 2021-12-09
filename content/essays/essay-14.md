@@ -69,7 +69,6 @@ The Smithsonian’s Hall of Human Origins Evolution Frequently Asked Questions c
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iS1xzRYWa4I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
 ## Notes
 [^1]: Asma, Stephen T. 2003. Stuffed Animals and Pickled Heads: The Culture and Evolution of Natural History Museums. 1st edition. Oxford New York: Oxford University Press; Barone, Lindsay M., Andrew J. Petto, and Benjamin C. Campbell. 2014. “Predictors of Evolution Acceptance in a Museum Population.” Evolution: Education and Outreach 7 (1): 23. https://doi.org/10.1186/s12052-014-0023-2; Pobiner, Briana. 2016. “Accepting, Understanding, Teaching, and Learning (Human) Evolution: Obstacles and Opportunities.” *American Journal of Physical Anthropology* 159 (S61): 232–74. https://doi.org/10.1002/ajpa.22910
 [^2]: Pobiner, Briana L. 2017. “The Quest to Understand Human Evolution: A Magical Mystery Tour.” *The American Biology Teacher* 79 (2): 77–77. https://doi.org/10.1525/abt.2017.79.2.77.
