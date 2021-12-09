@@ -123,27 +123,27 @@ figure_list:
     alt: "In this picture, a man holds up a pair of gloves connected to a series of wires. On a small screen in the top left, we see digital representations of his hands touching Michelangelo's *David*."
   - id: "Figure1"
     src: figures/Figure1.jpeg
-    caption: "Image of a marble Sphinx from the Metropolitan Museum of Art. Details of past patterns in paint can still be seen on the wings and chest."
+    caption: "Image of a marble Sphinx from the [Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search/248501). Details of past patterns in paint can still be seen on the wings and chest."
     alt:
   - id: "Figure2"
     src: figures/Figure2.jpeg
-    caption: "The Library of Congress's Oberlin Betts violin, a modern replica of the Library's Stradivarius Betts violin, undergoes x-ray fluorescence spectroscopy in the Preservation Research and Testing Division to test effects of use, October 8, 2019. Photo by Shawn Miller/Library of Congress."
+    caption: "The Library of Congress's Oberlin Betts violin, a modern replica of the Library's Stradivarius Betts violin, undergoes x-ray fluorescence spectroscopy in the Preservation Research and Testing Division to test effects of use, October 8, 2019. [Photo by Shawn Miller/Library of Congress](https://flickr.com/photos/162991176@N03/49064757568)."
     alt:
   - id: "Figure3"
     src: figures/Figure3.jpeg
-    caption: "Portion of the Siphnian Treasury frieze with figure, identified as Achilles, holding the Medusa shield."
+    caption: "Portion of the Siphnian Treasury frieze with figure, identified as Achilles, holding the Medusa shield. Attribution: [Nanosanchez, Public domain, via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TesoroSiphnios03.jpg)."
     alt:
   - id: "Figure4"
     src: figures/Figure4.jpeg
-    caption: "A portable X-ray fluorescence (XRF) machine being used in a laboratory to determine the composition of the gilded copper-alloy fittings on a drinking bottle (c) MOLA"
+    caption: "A portable X-ray fluorescence (XRF) machine being used in a laboratory to determine the composition of the gilded copper-alloy fittings on a drinking bottle. [(c) MOLA on Flickr](https://www.flickr.com/photos/southendbc/47029388534)."
     alt:
   - id: "Figure5"
     src: figures/Figure5.jpg
-    caption: "Reconstruction of the Peplos Kore from Gods in Color exhibition. Photo credited to Giovanni Dall'Orto on Wikimedia Commons."
+    caption: "Reconstruction of the Peplos Kore from Gods in Color exhibition. [Photo credited to Giovanni Dall'Orto on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Istanbul_-_Museo_archeologico_-_Mostra_sul_colore_nell%27antichit%C3%A0_02_-_Foto_G._Dall%27Orto_28-5-2006.jpg)."
     alt:
   - id: "Figure6"
     src: figures/Figure6.jpg
-    caption: "Reconstruction of head of figure on the Temple of Aphaia with the original piece, on a loan from the Glyptotek in Munich, in the Gods in Color exhibition. Photo credited to Giovanni Dall'Orto on Wikimedia Commons."
+    caption: "Reconstruction of head of figure on the Temple of Aphaia with the original piece, on a loan from the Glyptotek in Munich, in the Gods in Color exhibition. [Photo credited to Giovanni Dall'Orto on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Istanbul_-_Museo_archeologico_-_Mostra_sul_colore_nell%27antichit%C3%A0_05a_-_Frontone_di_Egina_-_Foto_G._Dall%27Orto_28-5-2006.jpg)."
     alt:
   - id: "Figure7"
     src: figures/Figure7.jpg
