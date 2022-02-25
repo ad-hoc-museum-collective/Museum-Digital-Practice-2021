@@ -1,0 +1,23 @@
+@media print {
+  .hero.is-fullheight .hero-body > .container {
+    z-index: 10;
+  }
+  .quire-page__header {
+    margin-bottom: .5in;
+  }
+  .quire-page h1, .quire-page__header__title {
+    font-size: 2.5em
+  }
+  .content figure.quire-figure.pdf-80-percent-width .q-figure__wrapper img,
+  .content figure.quire-figure.pdf-80-percent-width .q-figure__wrapper figcaption {
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .content figure.quire-figure.pdf-60-percent-width .q-figure__wrapper img,
+  .content figure.quire-figure.pdf-60-percent-width .q-figure__wrapper figcaption {
+    max-width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
