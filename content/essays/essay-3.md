@@ -190,7 +190,7 @@ have to offer.
 
 Investigations of the uses of such technologies can be difficult to grasp: some instances of haptic feedback systems within the museum are positioned as novel, while other efforts at making visual information tactile are well-established. Take, for instance, the case of the Louvre’s Tactile Gallery: since its inception in 1995, the Tactile Gallery has provided visually impaired visitors to the world’s most-visited museum with reproductions of famous works that they can touch and feel [(fig 4)](#fig-sanford-04).[^27] On the other hand, an interactive computer-based exhibition at the Mm Gerdau Museum Of Mines And Metal that merges tactile exploration with intelligent audio descriptions matching the objects being touched (if, for instance, the visitor picks up two of the five objects on display, the exhibitor machine will begin to explain the similarities and differences between those objects) was recently tested to great effect.[^28] Neither of these uses of technology are particularly resource-intensive nor radically different from what museums around the world already offer visitors on a day-to-day basis (especially with the advent of low-cost 3D printing technology), but each can fundamentally alter and greatly enhance the experience of PVI in the museum setting.
 
-{{< q-figure id="fig-sanford-04" >}}<a name="fig-sanford-04"></a>
+{{< q-figure id="fig-sanford-04" class="pdf-80-percent-width" >}}<a name="fig-sanford-04"></a>
 
 Though it may seem to be on the cutting edge of technological advancement, haptic displays that replicate the feeling of touching an object (achieved through force feedback on the hands and vibratory stimuli) has been in development since the turn of the 21st century.[^29] Jansson et. al.’s development of a system that mimics the feeling of touching a sculpture for the E.U.’s PURE-FORM project in 2001 was the precursor of modern advances in museum haptic technology that are radically changing what experiences are open to PVI.[^30] The National Museum of Transylvanian History has used a relatively simple haptic device—the Geomagic Touch System, which consists of a stylus on a mechanical arm that can provide force feedback [(fig 5)](#fig-sanford-05)—to provide visitors with an intuitive yet novel experience in which they can “touch” a range of 3D-scanned artifacts from the museum’s collection.[^31]
 
@@ -330,7 +330,7 @@ visually impaired.
 [^15]: Claudio Germak and Sara Khan, “Interaction Design Applications for Museum
     Spaces. New Exhibit Paths Driven by a Bluetooth Sensor’s System,” *The
     Design Journal* 20, no. sup1 (July 28, 2017): S3914–24,
-    https://doi.org/10.1080/14606925.2017.1352893.      
+    https://doi.org/10.1080/14606925.2017.1352893.
 
 [^16]: Santoshi Halder and Lori Czop Assaf, “Enriched Audio Description: Working
     Towards an Inclusive Museum Experience,” in *Inclusion, Disability and Culture: An Ethnographic Perspective Traversing Abilities and Challenges*

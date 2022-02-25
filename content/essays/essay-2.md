@@ -4,7 +4,6 @@ title: Capturing Complexity
 subtitle: Activating Musical Instruments in Online Museum Collections
 weight: 31
 type: essay
-class: page-one
 contributor:
   - id: nstorercorrada
 abstract: |

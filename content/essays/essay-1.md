@@ -1,10 +1,10 @@
 ---
 label: I
-title: Socially Distanced, Virtually Connected  
-subtitle: Digital Collecting During COVID-19   
+title: Socially Distanced, Virtually Connected
+subtitle: Digital Collecting During COVID-19
 weight: 30
 type: essay
-class:
+class: page-one
 contributor:
   - id: dvalera
 abstract: |
@@ -23,7 +23,7 @@ While COVID-19 collecting projects rely on audience participation, they are also
 
 With the emergence of COVID-19, museums needed to quickly reach out and make connections with their communities to identify meaningful stories and solicit donations. To do this, museums of all sizes and budgets took advantage of social media. In an article for the American Alliance of Museums, Anne Raymond, Board Member for the Unionville Museum in Connecticut, explains how her small institution utilized social media to begin a rapid response collecting project that directly involved the local community. Of the program, Raymond says “Living through this historic event now gives us and others working in local history an opportunity to start collecting relevant primary sources immediately.”[^14] Working with the resources they had, the Museum posted a request for “photographs and stories about the effects of the virus” on their website and Facebook page.[^14] The posts directed community members to submit their content in an email. Needing only a Facebook and Gmail account, the museum was able to kickstart their community collecting project one day after the governor’s shutdown order.[^14] In reflecting on the impacts of this project, Raymond noted that they were not only able to grow their collection, but also stay connected to their community during a time of isolation, increase awareness of the museum, engage a younger audience, and increase the institution’s use of social media.[^14]
 
-{{< q-figure id="fig-valera-01" >}}
+{{< q-figure id="fig-valera-01" class="pdf-80-percent-width" >}}
 
 Despite a difference in resources and scale, all the museums I evaluated for this article utilized their Facebook pages in order to kickstart COVID-19 collecting projects. The similarities in these cases reveal that museums need only two things to create these virtual initiatives: a way to reach people, and a place for them to submit their content.
 

@@ -49,7 +49,7 @@ Museums utilize social media influencers in a number of ways including hosting e
 [^7]: https://takumi.com/
 [^8]: “How Museums Can Work with Social Media Influencers.” MuseumNext, April 22, 2021. https://www.museumnext.com/article/how-museums-can-work-with-social-media-influencers/.
 [^9]:Kaufman, Leslie. 2014. “Sharing Cultural Jewels via Instagram.” _New York Times_, June 18. https://search-ebscohost-com.proxygw.wrlc.org/login.aspx?  direct=true&db=a9h&AN=96572170&site=ehost-live.
-[^10]: “What Is an Instameet?” Simply Social Media || Santa Fe, New Mexico Social Media and Influencer Marketing Agency. Simply Social Media || Santa Fe, New Mexico Social Media and Influencer Marketing Agency, April 12, 2019. https://www.simplysocialmedianm.com/blog/what-is-an-instameet#:~:text=Instameets%20are%20gatherings%20of%20people,in%20support%20of%20the%20promotion.
+[^10]: “What Is an Instameet?” Simply Social Media || Santa Fe, New Mexico Social Media and Influencer Marketing Agency. Simply Social Media || Santa Fe, New Mexico Social Media and Influencer Marketing Agency, April 12, 2019. [https://www.simplysocialmedianm.com/blog/what-is-an-instameet#:~:text=Instameets%20are%20gatherings%20of%20people,in%20support%20of%20the%20promotion](https://www.simplysocialmedianm.com/blog/what-is-an-instameet#:~:text=Instameets%20are%20gatherings%20of%20people,in%20support%20of%20the%20promotion).
 [^11]: Naiditch, Mara, Rachel Gertz, and Edgar Chamorro. “How Do You Museum?: Marketing User-Generated Content to Engage Audiences.” MW17. Pulished January 31, 2017.  Accessed November 7, 2021. https://mw17.mwconf.org/paper/how-do-you-museum-marketing-user-generated-content-to-engage-audiences/.
 [^12]: Naiditch, Gertz, and Chamorro 2017.
 [^13]: Ibid.
