@@ -77,7 +77,7 @@ module.exports = {
             loader: "file-loader",
             options: {
               name: "[name].[ext]",
-              outputPath: "img/"
+              outputPath: "Museum-Digital-Practice-2021/img/"
             }
           }
         ]
@@ -89,7 +89,7 @@ module.exports = {
             loader: "file-loader",
             options: {
               name: "[name].[ext]",
-              outputPath: "fonts/"
+              outputPath: "Museum-Digital-Practice-2021/fonts/"
             }
           }
         ]
