@@ -8759,7 +8759,8 @@ html {
     .quire-page__header {
       background-color: transparent;
       color: #000000;
-      margin: 0 0.5in 1in; } }
+      margin: 0 0.5in 1in;
+      margin: 0 0 1in; } }
   .quire-page__header.hero__image {
     height: 80vh; }
     .quire-page__header.hero__image .quire-page__header__title, .quire-page__header.hero__image .quire-page__header__subtitle {
@@ -8798,9 +8799,9 @@ html {
       .quire-splash .quire-page__header.hero-image {
         background-color: #EEF2F3;
         color: #ffffff;
-        width: 8.75in;
-        height: 11.25in;
-        max-height: 11.25in;
+        width: 6.25in;
+        height: 9.25in;
+        max-height: 9.25in;
         margin: -0.125in; } }
     .quire-splash .quire-page__header.hero-image .hero-body .label,
     .quire-splash .quire-page__header.hero-image .hero-body .quire-page__header__title,
@@ -8993,8 +8994,8 @@ html {
 
 @media print {
   .quire-cover {
-    width: 8.75in;
-    height: 11.25in;
+    width: 6.25in;
+    height: 9.25in;
     margin: -0.125in; } }
 
 .quire-cover__overlay {
@@ -10293,7 +10294,8 @@ div.multimedia {
   @media print {
     .quire-entry__header {
       text-align: center;
-      margin: 0 0.5in 1in; } }
+      margin: 0 0.5in 1in;
+      margin: 0 0 1in; } }
 
 .quire-entry__tombstone {
   font-family: "Noto Sans", sans-serif; }
@@ -10982,19 +10984,19 @@ body > div.mfp-bg.mfp-ready {
 
 @media print {
   @page {
-    size: 8.5in 11in;
+    size: 6in 9in;
     prince-bleed: 0.125in;
     bleed: 0.125in;
     prince-trim: 0.25in;
     marks: crop;
-    margin-top: 0.75in;
+    margin-top: 0.5in;
     margin-bottom: 0.875in;
     font-family: "IBM Plex Sans Condensed", sans-serif;
     font-size: 8pt;
     color: #000000; }
   @page :left {
     margin-left: 0.75in;
-    margin-right: 1in;
+    margin-right: 0.5in;
     @bottom-right {
       content: string(sectiontitle);
       text-transform: uppercase;
@@ -11006,7 +11008,7 @@ body > div.mfp-bg.mfp-ready {
     @bottom-right {
       content: none; } }
   @page :right {
-    margin-left: 1in;
+    margin-left: 0.5in;
     margin-right: 0.75in;
     @bottom-left {
       content: string(pagetitle); }
@@ -11098,7 +11100,7 @@ body > div.mfp-bg.mfp-ready {
     .quire-splash .quire-page__header.hero-image {
       page: splash-image; }
     .quire-splash .quire-page__header--full-height {
-      height: 9.375in;
+      height: 7.625in;
       page: splash-image; }
   .quire-splash.quire-page--frontmatter {
     page: frontmatter-splash; }
@@ -11126,27 +11128,6 @@ body > div.mfp-bg.mfp-ready {
       .quire-contents .quire-page__content .quire-contents-list:not(.grid) {
         max-width: 4.75in;
         margin: 0 auto; }
-    .quire-essay .quire-page__content,
-    .quire-entry .quire-page__content {
-      -webkit-column-count: 2;
-         -moz-column-count: 2;
-              column-count: 2;
-      -webkit-column-fill: balance;
-         -moz-column-fill: balance;
-              column-fill: balance;
-      -webkit-column-gap: .1875in;
-         -moz-column-gap: .1875in;
-              column-gap: .1875in;
-      max-width: 100%;
-      margin: 0; }
-      .quire-essay .quire-page__content .quire-figure.is-pulled-left,
-      .quire-essay .quire-page__content .quire-figure.is-pulled-right,
-      .quire-entry .quire-page__content .quire-figure.is-pulled-left,
-      .quire-entry .quire-page__content .quire-figure.is-pulled-right {
-        float: none;
-        width: 100%;
-        margin-left: 0;
-        margin-right: 0; }
   .quire-page__abstract {
     -webkit-column-span: all;
        -moz-column-span: all;
@@ -11166,9 +11147,11 @@ body > div.mfp-bg.mfp-ready {
     margin: 0 auto .25in;
     max-width: 4.75in; }
   .quire-page__header.hero-image .hero-body {
-    margin: 2.5in .5in 0; }
+    margin: 2.5in .5in 0;
+    width: 4.75in;
+    margin: 2.5in auto 0; }
   .quire-contents-list.grid .menu-list ul .page-item {
-    width: 2.0625in;
+    width: 2.1875in;
     height: 2.5in;
     margin-bottom: 0.1875in;
     background-color: #EEF2F3;
@@ -11198,7 +11181,7 @@ body > div.mfp-bg.mfp-ready {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
             flex-direction: column;
-    height: 9.375in;
+    height: 7.625in;
     margin-bottom: .5in;
     -webkit-column-break-after: page;
        -moz-column-break-after: page;
@@ -11207,8 +11190,8 @@ body > div.mfp-bg.mfp-ready {
       width: auto;
       height: auto; }
     .quire-entry__image figure .quire-figure__media-fallback img {
-      max-width: 6.75in;
-      max-height: 8.375in;
+      max-width: 4.75in;
+      max-height: 6.625in;
       margin: 0 auto;
       -o-object-fit: contain;
          object-fit: contain;
@@ -11216,7 +11199,8 @@ body > div.mfp-bg.mfp-ready {
   html body * {
     orphans: 2;
     widows: 2; }
-  a[target=_blank] {
+  a[target=_blank],
+  a[href^="http"] {
     prince-text-replace: "/" "\200B/" "~" "\200B~" "." "\200B." "," "\200B," "-" "\200B-" "_" "\200B_" "?" "\200B?" "#" "\200B#" "%" "\200B%" "=" "\200B=" "&" "\200B&" "+" "\200B+" ":" "\200B:" "\200B/\200B/" "//\200B" "\200B:\200B:" "\200B::"; }
   html body * {
     prince-text-replace: "—" "—\200B"; }
@@ -11251,15 +11235,17 @@ body > div.mfp-bg.mfp-ready {
     -webkit-column-break-after: region;
        -moz-column-break-after: region;
             break-after: region;
-    height: 11in;
-    width: 8.5in; }
+    height: 9in;
+    width: 6in; }
   .title-page {
     margin: 0 0.125in;
     padding-right: 1.25in;
-    padding-left: 1in;
-    height: 11in;
+    padding-left: 0.5in;
+    height: 9in;
+    padding-right: 0.75in;
     text-align: right;
     padding-top: 3.25in;
+    padding-top: 2.25in;
     font-family: "IBM Plex Sans Condensed", sans-serif; }
     .title-page span {
       display: block; }
@@ -11283,19 +11269,22 @@ body > div.mfp-bg.mfp-ready {
       letter-spacing: 1pt;
       position: fixed;
       bottom: 1.5in;
-      right: 1.25in; }
+      right: 1.25in;
+      right: 0.75in; }
     .title-page br {
       display: none; }
   .half-title-page {
     margin: 0 0.125in;
     padding-right: 1.25in;
-    padding-left: 1in;
-    height: 11in;
+    padding-left: 0.5in;
+    height: 9in;
+    padding-right: 0.75in;
     font-family: "IBM Plex Sans Condensed", sans-serif;
     font-size: 1.5em;
     color: #CF4747;
     text-align: right;
-    padding-top: 3.5in; }
+    padding-top: 3.5in;
+    padding-top: 2.5in; }
     .half-title-page span {
       display: block; }
     .half-title-page .title-htp {
