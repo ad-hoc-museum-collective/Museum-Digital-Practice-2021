@@ -35,10 +35,6 @@ $print-trim: $print-bleed * 2;
 // -----------------------------------------------------------------------------
   @page {
     size: $print-width $print-height;
-    prince-bleed: $print-bleed;
-    bleed: $print-bleed;
-    prince-trim: $print-trim;
-    marks: crop;
     margin-top: $print-top-margin;
     margin-bottom: $print-bottom-margin;
     font-family: $print-footer-font;
